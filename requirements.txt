@@ -1,0 +1,11 @@
+# ── Core (required to run the Streamlit app) ──────────────────────────────────
+google-genai>=1.0.0
+python-dotenv>=1.0.0
+streamlit>=1.35.0
+python-docx>=1.1.0
+
+# ── Optional: only needed for test_gemini.py (standalone CLI experiment) ──────
+# pydub>=0.25.1
+# resemblyzer>=0.1.4
+# numpy>=1.24.0
+# json-repair>=0.25.0

@@ -1,0 +1,5152 @@
+{
+  "meeting_meta": {
+    "duration_seconds": 1149,
+    "num_speakers": 4,
+    "language": "English",
+    "overall_topic": "The meeting focuses on the initial design and requirements gathering for a new remote control device, covering project scope, cost targets, usability features, and an icebreaker activity."
+  },
+  "utterances": [
+    {
+      "id": 1,
+      "speaker": "Speaker_A",
+      "start_time": "00:00",
+      "end_time": "00:05",
+      "text": "Okay, I'll just No.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Even tone, brief utterance.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Technical Issues"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 2,
+      "speaker": "Speaker_B",
+      "start_time": "00:04",
+      "end_time": "00:05",
+      "text": "No, let's see.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.7,
+        "cues": "Calm tone.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Technical Issues"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 3,
+      "speaker": "Speaker_B",
+      "start_time": "00:06",
+      "end_time": "00:10",
+      "text": "Take off the headset. Just around the back of your head.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Instructive, calm tone.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Technical Issues"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 4,
+      "speaker": "Speaker_A",
+      "start_time": "00:11",
+      "end_time": "00:20",
+      "text": "I think that's what it is. Just kind of around the back of your ears.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.75,
+        "cues": "Suggestive, even tone.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Technical Issues"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 5,
+      "speaker": "Speaker_A",
+      "start_time": "00:21",
+      "end_time": "00:28",
+      "text": "Forward.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Single word, clear.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Technical Issues"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 6,
+      "speaker": "Speaker_B",
+      "start_time": "00:29",
+      "end_time": "00:34",
+      "text": "It's still on top of your ears.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.7,
+        "cues": "Observational, calm.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Technical Issues"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 7,
+      "speaker": "Speaker_A",
+      "start_time": "00:34",
+      "end_time": "00:36",
+      "text": "No.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Short, clear.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Technical Issues"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 8,
+      "speaker": "Speaker_A",
+      "start_time": "00:37",
+      "end_time": "00:37",
+      "text": "You okay?",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.85,
+        "cues": "Questioning, even tone.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Technical Issues"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 9,
+      "speaker": "Speaker_A",
+      "start_time": "00:38",
+      "end_time": "00:40",
+      "text": "Thanks.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.7,
+        "cues": "Brief, followed by a chuckle.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Technical Issues"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 10,
+      "speaker": "Speaker_A",
+      "start_time": "00:41",
+      "end_time": "00:43",
+      "text": "Alright.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Confirming tone.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Technical Issues"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 11,
+      "speaker": "Speaker_A",
+      "start_time": "00:44",
+      "end_time": "00:46",
+      "text": "Okay?",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.85,
+        "cues": "Questioning, seeking confirmation.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Technical Issues"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 12,
+      "speaker": "Speaker_A",
+      "start_time": "00:48",
+      "end_time": "00:50",
+      "text": "Is that okay?",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.85,
+        "cues": "Questioning, seeking confirmation.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Technical Issues"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 13,
+      "speaker": "Speaker_A",
+      "start_time": "00:51",
+      "end_time": "00:56",
+      "text": "Come on, come on, come on, come on.",
+      "emotion": {
+        "primary": "frustrated",
+        "confidence": 0.7,
+        "cues": "Repetitive, slightly strained tone, indicating struggle.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Technical Issues"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 14,
+      "speaker": "Speaker_A",
+      "start_time": "01:02",
+      "end_time": "01:03",
+      "text": "Okay?",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Questioning, even tone.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Technical Issues"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 15,
+      "speaker": "Speaker_A",
+      "start_time": "01:04",
+      "end_time": "01:05",
+      "text": "",
+      "emotion": {
+        "primary": "frustrated",
+        "confidence": 0.6,
+        "cues": "Sigh followed by a chuckle, indicating slight exasperation.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Technical Issues"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 16,
+      "speaker": "Speaker_B",
+      "start_time": "01:06",
+      "end_time": "01:06",
+      "text": "Alright.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Calm, acknowledging.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Technical Issues"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 17,
+      "speaker": "Speaker_A",
+      "start_time": "01:07",
+      "end_time": "01:08",
+      "text": "Okay.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Calm, acknowledging.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Technical Issues"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 18,
+      "speaker": "Speaker_B",
+      "start_time": "01:08",
+      "end_time": "01:09",
+      "text": "Well.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.7,
+        "cues": "Brief, preparatory.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Technical Issues"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 19,
+      "speaker": "Speaker_A",
+      "start_time": "01:11",
+      "end_time": "01:15",
+      "text": "Right, so start of the first meeting.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.9,
+        "cues": "Clear, declarative tone.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Meeting Logistics"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 20,
+      "speaker": "Speaker_C",
+      "start_time": "01:16",
+      "end_time": "01:16",
+      "text": "Mhm.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Affirmative hum.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Meeting Logistics"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 21,
+      "speaker": "Speaker_A",
+      "start_time": "01:21",
+      "end_time": "01:23",
+      "text": "Right, so agenda of the first meeting.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.9,
+        "cues": "Clear, setting the stage.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Meeting Logistics"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 22,
+      "speaker": "Speaker_A",
+      "start_time": "01:25",
+      "end_time": "01:26",
+      "text": "Where are we, uh...",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.7,
+        "cues": "Slight pause, thinking.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Meeting Logistics"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 23,
+      "speaker": "Speaker_A",
+      "start_time": "01:30",
+      "end_time": "01:31",
+      "text": "We have 25 minutes for this meeting.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.9,
+        "cues": "Stating a fact, clear.",
+        "re_relevance": "This is a time constraint for the meeting duration."
+      },
+      "topics": [
+        "Meeting Logistics"
+      ],
+      "re_signals": {
+        "requirement_type": "constraint",
+        "priority_hint": "high",
+        "extracted_requirement": "The meeting duration shall be 25 minutes."
+      }
+    },
+    {
+      "id": 24,
+      "speaker": "Speaker_A",
+      "start_time": "01:32",
+      "end_time": "01:37",
+      "text": "We, uh, are to get acquainted.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Stating an objective, even tone.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Meeting Logistics",
+        "Introductions"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 25,
+      "speaker": "Speaker_A",
+      "start_time": "01:39",
+      "end_time": "01:42",
+      "text": "So, does everyone want to say who they are?",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.85,
+        "cues": "Asking a question, inviting participation.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Introductions"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 26,
+      "speaker": "Speaker_C",
+      "start_time": "01:43",
+      "end_time": "01:44",
+      "text": "Yeah, sensible.",
+      "emotion": {
+        "primary": "positive",
+        "confidence": 0.9,
+        "cues": "Agreeable, positive tone.",
+        "re_relevance": "Indicates agreement with a proposed activity."
+      },
+      "topics": [
+        "Introductions"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 27,
+      "speaker": "Speaker_C",
+      "start_time": "01:45",
+      "end_time": "01:46",
+      "text": "I'm Robin, I'm the marketing manager.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.9,
+        "cues": "Clear, professional introduction.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Introductions"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 28,
+      "speaker": "Speaker_B",
+      "start_time": "01:47",
+      "end_time": "01:50",
+      "text": "I'm Louisa, I'm the user interface designer.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.9,
+        "cues": "Clear, professional introduction.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Introductions"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 29,
+      "speaker": "Speaker_D",
+      "start_time": "01:50",
+      "end_time": "01:52",
+      "text": "I'm Nick, I'm the industrial designer.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.9,
+        "cues": "Clear, professional introduction.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Introductions"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 30,
+      "speaker": "Speaker_A",
+      "start_time": "01:53",
+      "end_time": "01:55",
+      "text": "And I'm Alistair, and I'm the project leader.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.9,
+        "cues": "Clear, professional introduction.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Introductions"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 31,
+      "speaker": "Speaker_A",
+      "start_time": "01:57",
+      "end_time": "02:00",
+      "text": "Alright, okay, so tool training.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.85,
+        "cues": "Transitioning, even tone.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Meeting Logistics",
+        "Project Methodology"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 32,
+      "speaker": "Speaker_A",
+      "start_time": "02:05",
+      "end_time": "02:06",
+      "text": "Project plan.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.9,
+        "cues": "Stating agenda item.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Meeting Logistics",
+        "Project Methodology"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 33,
+      "speaker": "Speaker_A",
+      "start_time": "02:07",
+      "end_time": "02:15",
+      "text": "So does anyone have any thoughts as to the tool training that is required?",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Open-ended question, seeking input.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Project Methodology"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 34,
+      "speaker": "Speaker_C",
+      "start_time": "02:16",
+      "end_time": "02:16",
+      "text": "Tool training.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.7,
+        "cues": "Repeating the phrase, possibly in thought.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Project Methodology"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 35,
+      "speaker": "Speaker_B",
+      "start_time": "02:17",
+      "end_time": "02:19",
+      "text": "I'm not exactly sure what you mean by tool training.",
+      "emotion": {
+        "primary": "uncertain",
+        "confidence": 0.85,
+        "cues": "Questioning, slightly hesitant tone.",
+        "re_relevance": "Highlights a lack of clarity in project terminology, indicating a need for better definition or explanation."
+      },
+      "topics": [
+        "Project Methodology"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "medium",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 36,
+      "speaker": "Speaker_A",
+      "start_time": "02:20",
+      "end_time": "02:21",
+      "text": "Neither am I.",
+      "emotion": {
+        "primary": "uncertain",
+        "confidence": 0.7,
+        "cues": "Humorous, acknowledging shared confusion.",
+        "re_relevance": "Reinforces the need for clarification on project terms."
+      },
+      "topics": [
+        "Project Methodology"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "medium",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 37,
+      "speaker": "Speaker_B",
+      "start_time": "02:22",
+      "end_time": "02:25",
+      "text": "It's for the slide, if you look at the slide.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Clarifying, informative tone.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Project Methodology"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 38,
+      "speaker": "Speaker_A",
+      "start_time": "02:26",
+      "end_time": "02:28",
+      "text": "Oh, I see, so we shouldn't really be...",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.75,
+        "cues": "Realization, trailing off.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Project Methodology"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 39,
+      "speaker": "Speaker_B",
+      "start_time": "02:29",
+      "end_time": "02:36",
+      "text": "So, you're supposed to have the project team, you go on to the next slide, I don't know if you've got it.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.7,
+        "cues": "Guiding, slightly uncertain at the end.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Project Methodology",
+        "Meeting Logistics"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 40,
+      "speaker": "Speaker_A",
+      "start_time": "02:37",
+      "end_time": "02:38",
+      "text": "Alright, okay, so.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.85,
+        "cues": "Acknowledging, moving on.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Meeting Logistics"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 41,
+      "speaker": "Speaker_A",
+      "start_time": "02:38",
+      "end_time": "02:44",
+      "text": "So we have the project aim, which is to, um, basically to come up with a new remote control device.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.9,
+        "cues": "Clear, declarative tone.",
+        "re_relevance": "Defines the core functional requirement of the project."
+      },
+      "topics": [
+        "Project Aim",
+        "Remote Control Design"
+      ],
+      "re_signals": {
+        "requirement_type": "functional",
+        "priority_hint": "high",
+        "extracted_requirement": "The system shall be a new remote control device."
+      }
+    },
+    {
+      "id": 42,
+      "speaker": "Speaker_C",
+      "start_time": "02:45",
+      "end_time": "02:45",
+      "text": "Mhm.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Affirmative hum.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Project Aim"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 43,
+      "speaker": "Speaker_A",
+      "start_time": "02:46",
+      "end_time": "02:55",
+      "text": "Uh, we have, uh, starting base was the original, which has been in existence now for a period of time.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.85,
+        "cues": "Providing context, even tone.",
+        "re_relevance": "Establishes existing context for the new design."
+      },
+      "topics": [
+        "Remote Control Design"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 44,
+      "speaker": "Speaker_A",
+      "start_time": "02:56",
+      "end_time": "03:15",
+      "text": "And, uh, our idea is to, uh, to make the new remote control device more user-friendly than the previous one and to, uh, to be trendier, to be with it, and therefore to, uh, to get a bigger market share and bigger audience.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.9,
+        "cues": "Explaining objectives, clear and focused.",
+        "re_relevance": "Highlights key non-functional requirements and stakeholder needs for market success."
+      },
+      "topics": [
+        "Remote Control Design",
+        "Usability",
+        "Cost & Market"
+      ],
+      "re_signals": {
+        "requirement_type": "non-functional",
+        "priority_hint": "high",
+        "extracted_requirement": "The system shall be more user-friendly than the previous version. The system shall be trendier. The system shall aim for a bigger market share and audience."
+      }
+    },
+    {
+      "id": 45,
+      "speaker": "Speaker_A",
+      "start_time": "03:17",
+      "end_time": "03:32",
+      "text": "So, um, the method of doing this is, uh, split up, as you can see, into, uh, the functional design, the conceptual design, and the detailed design.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.9,
+        "cues": "Explaining process, clear and structured.",
+        "re_relevance": "Outlines the project's design phases, which are crucial for requirements traceability."
+      },
+      "topics": [
+        "Project Methodology"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 46,
+      "speaker": "Speaker_A",
+      "start_time": "03:33",
+      "end_time": "03:48",
+      "text": "So, um, and each of these phases will, uh, basically be handing over to yourselves, the designers of this, uh, this device.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.85,
+        "cues": "Explaining workflow, even tone.",
+        "re_relevance": "Describes the project's workflow and responsibilities."
+      },
+      "topics": [
+        "Project Methodology"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 47,
+      "speaker": "Speaker_A",
+      "start_time": "03:49",
+      "end_time": "04:07",
+      "text": "And, uh, having, uh, meetings so that we can, uh, during the course of today, um, come up with, uh, a better, better, uh, implement than we had before, and therefore, um, have a successful, uh, conclusion to the day.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.85,
+        "cues": "Explaining purpose, clear and focused.",
+        "re_relevance": "Sets the immediate goal for the day's work, implying a need for concrete design outcomes."
+      },
+      "topics": [
+        "Meeting Logistics",
+        "Project Aim"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 48,
+      "speaker": "Speaker_A",
+      "start_time": "04:08",
+      "end_time": "04:15",
+      "text": "Um, and, uh, you'll be doing, uh, various designs, uh, throughout the day.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Informative, outlining tasks.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Project Methodology"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 49,
+      "speaker": "Speaker_C",
+      "start_time": "04:15",
+      "end_time": "04:16",
+      "text": "Okay.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Acknowledging.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Project Methodology"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 50,
+      "speaker": "Speaker_A",
+      "start_time": "04:16",
+      "end_time": "04:16",
+      "text": "to meet this end.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Completing a sentence, even tone.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Project Methodology"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 51,
+      "speaker": "Speaker_A",
+      "start_time": "04:17",
+      "end_time": "04:21",
+      "text": "So, we've got to try out whiteboard.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.85,
+        "cues": "Introducing an activity, slightly lighthearted.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Icebreaker: Favorite Animal",
+        "Meeting Logistics"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 52,
+      "speaker": "Speaker_A",
+      "start_time": "04:22",
+      "end_time": "04:24",
+      "text": "",
+      "emotion": {
+        "primary": "negative",
+        "confidence": 0.6,
+        "cues": "Laughter, possibly self-deprecating about the activity.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Icebreaker: Favorite Animal"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 53,
+      "speaker": "Speaker_B",
+      "start_time": "04:24",
+      "end_time": "04:24",
+      "text": "",
+      "emotion": {
+        "primary": "negative",
+        "confidence": 0.6,
+        "cues": "Laughter, joining in the lightheartedness.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Icebreaker: Favorite Animal"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 54,
+      "speaker": "Speaker_A",
+      "start_time": "04:25",
+      "end_time": "04:37",
+      "text": "So, we'll, uh, right, so basically everyone's to, uh, supposedly, uh, draw their favorite animal over on the whiteboard over there. I guess this is, uh, make sure the whiteboard works.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.85,
+        "cues": "Explaining the activity, slightly humorous at the end.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Icebreaker: Favorite Animal",
+        "Technical Issues"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 55,
+      "speaker": "Speaker_A",
+      "start_time": "04:38",
+      "end_time": "04:40",
+      "text": "So, uh, I don't know who wishes to go first.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Asking for a volunteer, open tone.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Icebreaker: Favorite Animal"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 56,
+      "speaker": "Speaker_A",
+      "start_time": "04:42",
+      "end_time": "04:45",
+      "text": "Do you wish to go, have a first bash at, uh, whatever?",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.75,
+        "cues": "Directing the question to Speaker B, lighthearted.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Icebreaker: Favorite Animal"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 57,
+      "speaker": "Speaker_B",
+      "start_time": "04:46",
+      "end_time": "04:47",
+      "text": "Um.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.6,
+        "cues": "Hesitant, thinking.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Icebreaker: Favorite Animal"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 58,
+      "speaker": "Speaker_A",
+      "start_time": "04:48",
+      "end_time": "04:49",
+      "text": "Ah.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.6,
+        "cues": "Brief, acknowledging hesitation.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Icebreaker: Favorite Animal"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 59,
+      "speaker": "Speaker_B",
+      "start_time": "04:49",
+      "end_time": "04:51",
+      "text": "Let's see. I haven't got pockets today.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.7,
+        "cues": "Humorous, lighthearted excuse.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Icebreaker: Favorite Animal"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 60,
+      "speaker": "Speaker_A",
+      "start_time": "04:52",
+      "end_time": "04:55",
+      "text": "You now, you, yeah, you'll move out from the microphone.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Instructive, even tone.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Technical Issues"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 61,
+      "speaker": "Speaker_A",
+      "start_time": "04:55",
+      "end_time": "04:56",
+      "text": "And the camera.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Instructive, even tone.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Technical Issues"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 62,
+      "speaker": "Speaker_B",
+      "start_time": "04:57",
+      "end_time": "04:58",
+      "text": "Should I go first right now, do you think?",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.75,
+        "cues": "Asking for confirmation, polite.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Icebreaker: Favorite Animal"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 63,
+      "speaker": "Speaker_A",
+      "start_time": "04:59",
+      "end_time": "05:01",
+      "text": "I would, I would guess so.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Confirming, even tone.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Icebreaker: Favorite Animal"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 64,
+      "speaker": "Speaker_C",
+      "start_time": "05:01",
+      "end_time": "05:03",
+      "text": "You've lost your microphone.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Observational, calm.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Technical Issues"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 65,
+      "speaker": "Speaker_B",
+      "start_time": "05:04",
+      "end_time": "05:04",
+      "text": "Oh.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.7,
+        "cues": "Brief exclamation.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Technical Issues"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 66,
+      "speaker": "Speaker_A",
+      "start_time": "05:05",
+      "end_time": "05:09",
+      "text": "Technical problems. I mean, you designers are meant to come up with things.",
+      "emotion": {
+        "primary": "negative",
+        "confidence": 0.7,
+        "cues": "Humorous, lighthearted jab at designers, indicating slight frustration with technical issues.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Technical Issues",
+        "Humor"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 67,
+      "speaker": "Speaker_C",
+      "start_time": "05:10",
+      "end_time": "05:10",
+      "text": "",
+      "emotion": {
+        "primary": "positive",
+        "confidence": 0.7,
+        "cues": "Laughter, joining in the humor.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Humor"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 68,
+      "speaker": "Speaker_B",
+      "start_time": "05:11",
+      "end_time": "05:11",
+      "text": "",
+      "emotion": {
+        "primary": "positive",
+        "confidence": 0.7,
+        "cues": "Laughter, joining in the humor.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Humor"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 69,
+      "speaker": "Speaker_A",
+      "start_time": "05:12",
+      "end_time": "05:13",
+      "text": "Hmm.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.6,
+        "cues": "Humming, thinking.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Technical Issues"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 70,
+      "speaker": "Speaker_B",
+      "start_time": "05:22",
+      "end_time": "05:23",
+      "text": "Okay.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Calm, ready to proceed.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Icebreaker: Favorite Animal"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 71,
+      "speaker": "Speaker_B",
+      "start_time": "05:24",
+      "end_time": "05:28",
+      "text": "I think that I would have to say that my favorite animal is the cat.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.85,
+        "cues": "Clear, stating preference.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Icebreaker: Favorite Animal"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 72,
+      "speaker": "Speaker_B",
+      "start_time": "05:36",
+      "end_time": "05:37",
+      "text": "Little smiley cat there.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Descriptive, calm.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Icebreaker: Favorite Animal"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 73,
+      "speaker": "Speaker_B",
+      "start_time": "05:39",
+      "end_time": "05:48",
+      "text": "Um, and this would be because they're very independent, uh, they're very intelligent, compared to dogs maybe.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.85,
+        "cues": "Explaining, slightly humorous at the end.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Icebreaker: Favorite Animal"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 74,
+      "speaker": "Speaker_A",
+      "start_time": "05:49",
+      "end_time": "05:49",
+      "text": "",
+      "emotion": {
+        "primary": "positive",
+        "confidence": 0.7,
+        "cues": "Laughter, reacting to humor.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Humor"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 75,
+      "speaker": "Speaker_C",
+      "start_time": "05:50",
+      "end_time": "05:50",
+      "text": "",
+      "emotion": {
+        "primary": "positive",
+        "confidence": 0.7,
+        "cues": "Laughter, reacting to humor.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Humor"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 76,
+      "speaker": "Speaker_B",
+      "start_time": "05:52",
+      "end_time": "05:56",
+      "text": "And they can be very, very affectionate. Some people don't think so, but I know very affectionate cats.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Explaining, slightly defensive but calm.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Icebreaker: Favorite Animal"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 77,
+      "speaker": "Speaker_B",
+      "start_time": "05:57",
+      "end_time": "05:57",
+      "text": "Um.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.6,
+        "cues": "Filler word.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Icebreaker: Favorite Animal"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 78,
+      "speaker": "Speaker_B",
+      "start_time": "06:00",
+      "end_time": "06:01",
+      "text": "And they can look after themselves.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Stating a characteristic, calm.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Icebreaker: Favorite Animal"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 79,
+      "speaker": "Speaker_A",
+      "start_time": "06:03",
+      "end_time": "06:03",
+      "text": "Fine.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Brief, acknowledging.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Icebreaker: Favorite Animal"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 80,
+      "speaker": "Speaker_A",
+      "start_time": "06:05",
+      "end_time": "06:05",
+      "text": "Next.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.85,
+        "cues": "Prompting the next person.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Icebreaker: Favorite Animal"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 81,
+      "speaker": "Speaker_C",
+      "start_time": "06:06",
+      "end_time": "06:06",
+      "text": "Yeah.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Acknowledging.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Icebreaker: Favorite Animal"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 82,
+      "speaker": "Speaker_B",
+      "start_time": "06:06",
+      "end_time": "06:07",
+      "text": "Shall I rub that out, actually?",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.75,
+        "cues": "Asking for instruction, polite.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Icebreaker: Favorite Animal"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 83,
+      "speaker": "Speaker_A",
+      "start_time": "06:08",
+      "end_time": "06:14",
+      "text": "I don't see there's any need to, there's plenty of space. I mean, whatever.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Relaxed, flexible tone.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Icebreaker: Favorite Animal"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 84,
+      "speaker": "Speaker_C",
+      "start_time": "06:15",
+      "end_time": "06:15",
+      "text": "Have a home menagerie.",
+      "emotion": {
+        "primary": "positive",
+        "confidence": 0.8,
+        "cues": "Humorous, lighthearted.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Humor"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 85,
+      "speaker": "Speaker_A",
+      "start_time": "06:16",
+      "end_time": "06:16",
+      "text": "Exactly.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Agreeing, calm.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Humor"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 86,
+      "speaker": "Speaker_C",
+      "start_time": "06:17",
+      "end_time": "06:20",
+      "text": "I'll see if I can get the colors right, just tangling everything.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.75,
+        "cues": "Preparing, slightly humorous about potential difficulty.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Icebreaker: Favorite Animal"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 87,
+      "speaker": "Speaker_A",
+      "start_time": "06:24",
+      "end_time": "06:28",
+      "text": "We've had more time to prepare over this side, so we've all stuck our bits and pieces in our pockets.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.75,
+        "cues": "Humorous, lighthearted explanation.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Humor"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 88,
+      "speaker": "Speaker_C",
+      "start_time": "06:29",
+      "end_time": "06:30",
+      "text": "Didn't think.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.7,
+        "cues": "Humorous, self-deprecating.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Humor"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 89,
+      "speaker": "Speaker_C",
+      "start_time": "06:33",
+      "end_time": "06:34",
+      "text": "Okay, um.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.7,
+        "cues": "Hesitant, starting to speak.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Icebreaker: Favorite Animal"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 90,
+      "speaker": "Speaker_A",
+      "start_time": "06:34",
+      "end_time": "06:37",
+      "text": "The three pens are underneath. I'll try the red pen.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Instructive, making a choice.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Icebreaker: Favorite Animal"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 91,
+      "speaker": "Speaker_C",
+      "start_time": "06:40",
+      "end_time": "06:41",
+      "text": "Okay, um.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.7,
+        "cues": "Hesitant, starting to speak.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Icebreaker: Favorite Animal"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 92,
+      "speaker": "Speaker_C",
+      "start_time": "06:44",
+      "end_time": "06:49",
+      "text": "I'm gonna go for the bear, which I'm gonna be able to draw very well.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.75,
+        "cues": "Stating choice, humorous self-deprecation.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Icebreaker: Favorite Animal",
+        "Humor"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 93,
+      "speaker": "Speaker_C",
+      "start_time": "06:51",
+      "end_time": "06:51",
+      "text": "I'll have a bash at it.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.7,
+        "cues": "Lighthearted, determined.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Icebreaker: Favorite Animal"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 94,
+      "speaker": "Speaker_A",
+      "start_time": "06:53",
+      "end_time": "06:54",
+      "text": "You get marks for artistic impression.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.75,
+        "cues": "Humorous, encouraging.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Humor"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 95,
+      "speaker": "Speaker_C",
+      "start_time": "07:03",
+      "end_time": "07:04",
+      "text": "Ooh, I lost it there.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.7,
+        "cues": "Exclamation, acknowledging a mistake.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Icebreaker: Favorite Animal"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 96,
+      "speaker": "Speaker_A",
+      "start_time": "07:05",
+      "end_time": "07:06",
+      "text": "Looks like a microphone.",
+      "emotion": {
+        "primary": "negative",
+        "confidence": 0.7,
+        "cues": "Humorous, teasing comment about the drawing.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Humor"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 97,
+      "speaker": "Speaker_A",
+      "start_time": "07:08",
+      "end_time": "07:09",
+      "text": "So you're just doing the face.",
+      "emotion": {
+        "primary": "negative",
+        "confidence": 0.7,
+        "cues": "Humorous, teasing comment about the drawing.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Humor"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 98,
+      "speaker": "Speaker_C",
+      "start_time": "07:11",
+      "end_time": "07:15",
+      "text": "Okay, then we'll go for a, a small, small bear body.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.75,
+        "cues": "Continuing to draw, calm.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Icebreaker: Favorite Animal"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 99,
+      "speaker": "Speaker_B",
+      "start_time": "07:16",
+      "end_time": "07:16",
+      "text": "",
+      "emotion": {
+        "primary": "positive",
+        "confidence": 0.7,
+        "cues": "Laughter, reacting to humor.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Humor"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 100,
+      "speaker": "Speaker_A",
+      "start_time": "07:17",
+      "end_time": "07:17",
+      "text": "",
+      "emotion": {
+        "primary": "positive",
+        "confidence": 0.7,
+        "cues": "Laughter, reacting to humor.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Humor"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 101,
+      "speaker": "Speaker_C",
+      "start_time": "07:22",
+      "end_time": "07:23",
+      "text": "Um.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.6,
+        "cues": "Filler word.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Icebreaker: Favorite Animal"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 102,
+      "speaker": "Speaker_C",
+      "start_time": "07:25",
+      "end_time": "07:35",
+      "text": "And I like my animal that looks nothing like a bear because, um, I don't know, maybe because there's so many cartoon characters made up out of the bear, like the Jungle Book characters and stuff like that.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Explaining choice, calm.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Icebreaker: Favorite Animal"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 103,
+      "speaker": "Speaker_A",
+      "start_time": "07:36",
+      "end_time": "07:36",
+      "text": "",
+      "emotion": {
+        "primary": "positive",
+        "confidence": 0.7,
+        "cues": "Laughter, reacting to humor.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Humor"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 104,
+      "speaker": "Speaker_B",
+      "start_time": "07:37",
+      "end_time": "07:37",
+      "text": "",
+      "emotion": {
+        "primary": "positive",
+        "confidence": 0.7,
+        "cues": "Laughter, reacting to humor.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Humor"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 105,
+      "speaker": "Speaker_D",
+      "start_time": "07:38",
+      "end_time": "07:38",
+      "text": "",
+      "emotion": {
+        "primary": "positive",
+        "confidence": 0.7,
+        "cues": "Laughter, reacting to humor.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Humor"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 106,
+      "speaker": "Speaker_A",
+      "start_time": "07:40",
+      "end_time": "07:40",
+      "text": "Right.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Acknowledging, moving on.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Icebreaker: Favorite Animal"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 107,
+      "speaker": "Speaker_D",
+      "start_time": "07:50",
+      "end_time": "07:53",
+      "text": "Hello. Um, I'm gonna go for the dog.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.85,
+        "cues": "Greeting, stating choice.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Icebreaker: Favorite Animal"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 108,
+      "speaker": "Speaker_D",
+      "start_time": "07:54",
+      "end_time": "07:55",
+      "text": "I'm gonna draw one badly as well.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.75,
+        "cues": "Humorous, self-deprecating.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Icebreaker: Favorite Animal",
+        "Humor"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 109,
+      "speaker": "Speaker_B",
+      "start_time": "08:16",
+      "end_time": "08:16",
+      "text": "That's quite good.",
+      "emotion": {
+        "primary": "positive",
+        "confidence": 0.9,
+        "cues": "Complimentary, encouraging tone.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Icebreaker: Favorite Animal"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 110,
+      "speaker": "Speaker_A",
+      "start_time": "08:17",
+      "end_time": "08:17",
+      "text": "",
+      "emotion": {
+        "primary": "positive",
+        "confidence": 0.7,
+        "cues": "Laughter, reacting to positive feedback.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Humor"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 111,
+      "speaker": "Speaker_C",
+      "start_time": "08:18",
+      "end_time": "08:18",
+      "text": "",
+      "emotion": {
+        "primary": "positive",
+        "confidence": 0.7,
+        "cues": "Laughter, reacting to positive feedback.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Humor"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 112,
+      "speaker": "Speaker_D",
+      "start_time": "08:22",
+      "end_time": "08:23",
+      "text": "Right, there's my dog.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Stating completion, calm.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Icebreaker: Favorite Animal"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 113,
+      "speaker": "Speaker_D",
+      "start_time": "08:24",
+      "end_time": "08:36",
+      "text": "Um, I like dogs because they're very loyal, and they're always happy, so whenever, whenever you're feeling sort of a bit, a bit down or tired, they're always coming up and they're always, um, quite excited.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.85,
+        "cues": "Explaining choice, positive sentiment.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Icebreaker: Favorite Animal"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 114,
+      "speaker": "Speaker_D",
+      "start_time": "08:37",
+      "end_time": "08:39",
+      "text": "So, um, you can always have a lot of fun with the dog.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Explaining choice, positive sentiment.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Icebreaker: Favorite Animal"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 115,
+      "speaker": "Speaker_D",
+      "start_time": "08:40",
+      "end_time": "08:44",
+      "text": "And they're also good for exercise as well, you can sort of get out and they, they sort of never get tired.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Explaining choice, positive sentiment.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Icebreaker: Favorite Animal"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 116,
+      "speaker": "Speaker_D",
+      "start_time": "08:45",
+      "end_time": "08:47",
+      "text": "And when they're tired, they're quite cute as well, so.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Explaining choice, positive sentiment.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Icebreaker: Favorite Animal"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 117,
+      "speaker": "Speaker_A",
+      "start_time": "08:47",
+      "end_time": "08:48",
+      "text": "",
+      "emotion": {
+        "primary": "positive",
+        "confidence": 0.7,
+        "cues": "Laughter, reacting to humor.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Humor"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 118,
+      "speaker": "Speaker_D",
+      "start_time": "08:49",
+      "end_time": "08:50",
+      "text": "Okay, that's why I like dogs.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.85,
+        "cues": "Summarizing, clear.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Icebreaker: Favorite Animal"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 119,
+      "speaker": "Speaker_A",
+      "start_time": "08:56",
+      "end_time": "08:57",
+      "text": "Right, um.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.7,
+        "cues": "Hesitant, thinking.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Icebreaker: Favorite Animal"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 120,
+      "speaker": "Speaker_A",
+      "start_time": "09:00",
+      "end_time": "09:04",
+      "text": "Well, I've not actually had too many pets, uh, over my, uh, time.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Personal anecdote, calm.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Icebreaker: Favorite Animal"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 121,
+      "speaker": "Speaker_A",
+      "start_time": "09:04",
+      "end_time": "09:12",
+      "text": "Because, to be honest with you, uh, well, right, um, not too keen on them anyway, not to worry.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.7,
+        "cues": "Humorous, slightly dismissive but lighthearted.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Icebreaker: Favorite Animal",
+        "Humor"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 122,
+      "speaker": "Speaker_A",
+      "start_time": "09:12",
+      "end_time": "09:16",
+      "text": "So what my daughters have got at the moment is they've got a few fish.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Stating fact, calm.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Icebreaker: Favorite Animal"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 123,
+      "speaker": "Speaker_A",
+      "start_time": "09:17",
+      "end_time": "09:20",
+      "text": "And so hopefully, um, it won't prove too difficult to draw.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.75,
+        "cues": "Humorous, lighthearted.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Icebreaker: Favorite Animal",
+        "Humor"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 124,
+      "speaker": "Speaker_A",
+      "start_time": "09:22",
+      "end_time": "09:22",
+      "text": "",
+      "emotion": {
+        "primary": "positive",
+        "confidence": 0.7,
+        "cues": "Laughter, reacting to own humor.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Humor"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 125,
+      "speaker": "Speaker_A",
+      "start_time": "09:36",
+      "end_time": "09:40",
+      "text": "As you can see that my artistic work is useless as well.",
+      "emotion": {
+        "primary": "negative",
+        "confidence": 0.7,
+        "cues": "Humorous, self-deprecating.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Icebreaker: Favorite Animal",
+        "Humor"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 126,
+      "speaker": "Speaker_A",
+      "start_time": "09:41",
+      "end_time": "09:41",
+      "text": "Anyway, um.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.7,
+        "cues": "Transitioning, filler.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Icebreaker: Favorite Animal"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 127,
+      "speaker": "Speaker_A",
+      "start_time": "09:43",
+      "end_time": "09:51",
+      "text": "And, uh, one of the best, uh, things about fish is that they don't really take, uh, too much looking after.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.85,
+        "cues": "Explaining, calm.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Icebreaker: Favorite Animal"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 128,
+      "speaker": "Speaker_A",
+      "start_time": "09:52",
+      "end_time": "10:01",
+      "text": "Because, uh, with most of the animals, if you're going away on holiday or whatever, you've got to spend money or get a friend or whatever to look after them for you.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Explaining, calm.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Icebreaker: Favorite Animal"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 129,
+      "speaker": "Speaker_A",
+      "start_time": "10:01",
+      "end_time": "10:08",
+      "text": "Whereas if you got fish, you just got to put the food in a, a dripper feed, which feeds them over the, uh, couple of weeks that you're away.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.85,
+        "cues": "Explaining, calm.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Icebreaker: Favorite Animal"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 130,
+      "speaker": "Speaker_A",
+      "start_time": "10:08",
+      "end_time": "10:15",
+      "text": "And, uh, change the water every couple of months and buying a few plants.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Explaining, calm.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Icebreaker: Favorite Animal"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 131,
+      "speaker": "Speaker_A",
+      "start_time": "10:15",
+      "end_time": "10:17",
+      "text": "So, other than the fact they keep dying.",
+      "emotion": {
+        "primary": "negative",
+        "confidence": 0.7,
+        "cues": "Humorous, self-deprecating.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Icebreaker: Favorite Animal",
+        "Humor"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 132,
+      "speaker": "Speaker_A",
+      "start_time": "10:18",
+      "end_time": "10:25",
+      "text": "Uh, fish are, uh, are not, are, are, are reasonable pets in that, uh, they're low maintenance.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.85,
+        "cues": "Summarizing, calm.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Icebreaker: Favorite Animal"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 133,
+      "speaker": "Speaker_C",
+      "start_time": "10:26",
+      "end_time": "10:26",
+      "text": "",
+      "emotion": {
+        "primary": "positive",
+        "confidence": 0.7,
+        "cues": "Laughter, reacting to humor.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Humor"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 134,
+      "speaker": "Speaker_C",
+      "start_time": "10:28",
+      "end_time": "10:28",
+      "text": "Right.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Acknowledging.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Icebreaker: Favorite Animal"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 135,
+      "speaker": "Speaker_A",
+      "start_time": "10:29",
+      "end_time": "10:29",
+      "text": "Right.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Acknowledging.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Icebreaker: Favorite Animal"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 136,
+      "speaker": "Speaker_A",
+      "start_time": "10:33",
+      "end_time": "10:36",
+      "text": "Okay, uh, if we're still all with us.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.75,
+        "cues": "Checking engagement, lighthearted.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Meeting Logistics"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 137,
+      "speaker": "Speaker_A",
+      "start_time": "10:37",
+      "end_time": "10:38",
+      "text": "Right, okay, so.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.85,
+        "cues": "Transitioning, moving on.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Meeting Logistics"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 138,
+      "speaker": "Speaker_A",
+      "start_time": "10:41",
+      "end_time": "10:46",
+      "text": "Work has been done on, uh, this project.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.85,
+        "cues": "Stating project status, calm.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Project Aim"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 139,
+      "speaker": "Speaker_A",
+      "start_time": "10:46",
+      "end_time": "10:55",
+      "text": "Whereby, um, 25 euros is, uh, the, uh, expected, uh, selling price.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.9,
+        "cues": "Stating a fact, clear.",
+        "re_relevance": "Establishes a key non-functional requirement related to cost and market strategy."
+      },
+      "topics": [
+        "Cost & Market"
+      ],
+      "re_signals": {
+        "requirement_type": "non-functional",
+        "priority_hint": "high",
+        "extracted_requirement": "The system shall have a selling price of €25."
+      }
+    },
+    {
+      "id": 140,
+      "speaker": "Speaker_A",
+      "start_time": "10:56",
+      "end_time": "10:58",
+      "text": "That information has come from our marketing manager here.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.85,
+        "cues": "Attributing information, calm.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Cost & Market"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 141,
+      "speaker": "Speaker_A",
+      "start_time": "10:59",
+      "end_time": "11:00",
+      "text": "",
+      "emotion": {
+        "primary": "positive",
+        "confidence": 0.7,
+        "cues": "Laughter, lighthearted.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Humor"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 142,
+      "speaker": "Speaker_C",
+      "start_time": "11:01",
+      "end_time": "11:01",
+      "text": "",
+      "emotion": {
+        "primary": "positive",
+        "confidence": 0.7,
+        "cues": "Laughter, reacting to humor.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Humor"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 143,
+      "speaker": "Speaker_A",
+      "start_time": "11:03",
+      "end_time": "11:05",
+      "text": "So, we're looking to sell internationally, not just in Europe.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.9,
+        "cues": "Stating a goal, clear.",
+        "re_relevance": "Defines a market-related non-functional requirement."
+      },
+      "topics": [
+        "Cost & Market"
+      ],
+      "re_signals": {
+        "requirement_type": "non-functional",
+        "priority_hint": "high",
+        "extracted_requirement": "The system shall be sold internationally."
+      }
+    },
+    {
+      "id": 144,
+      "speaker": "Speaker_A",
+      "start_time": "11:06",
+      "end_time": "11:15",
+      "text": "We're looking at, um, having our production costs limited to, uh, 12 and a half euro per unit.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.9,
+        "cues": "Stating a constraint, clear.",
+        "re_relevance": "Establishes a critical cost constraint for the project."
+      },
+      "topics": [
+        "Cost & Market"
+      ],
+      "re_signals": {
+        "requirement_type": "constraint",
+        "priority_hint": "high",
+        "extracted_requirement": "The system's production cost shall be limited to €12.50 per unit."
+      }
+    },
+    {
+      "id": 145,
+      "speaker": "Speaker_A",
+      "start_time": "11:16",
+      "end_time": "11:34",
+      "text": "And therefore making a profit margin of, uh, well, not actually a profit margin, it's, uh, because obviously you're gonna have overheads and various other costs to take, uh, from, uh, from that to give you your profit margin per unit.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.85,
+        "cues": "Explaining financial details, informative.",
+        "re_relevance": "Provides context for the cost constraints."
+      },
+      "topics": [
+        "Cost & Market"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 146,
+      "speaker": "Speaker_A",
+      "start_time": "11:36",
+      "end_time": "11:48",
+      "text": "And so depending what the, uh, the overhead, uh, costs are, will determine, uh, how many units we're, uh, looking to sell or projecting to sell at this point in time.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.85,
+        "cues": "Explaining dependencies, informative.",
+        "re_relevance": "Highlights factors influencing sales projections, relevant for business goals."
+      },
+      "topics": [
+        "Cost & Market"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 147,
+      "speaker": "Speaker_A",
+      "start_time": "11:50",
+      "end_time": "11:50",
+      "text": "So, um.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.7,
+        "cues": "Transitioning, filler.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Meeting Logistics"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 148,
+      "speaker": "Speaker_A",
+      "start_time": "11:56",
+      "end_time": "12:00",
+      "text": "Experience with remote control, first ideas, new remote.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.85,
+        "cues": "Stating agenda item, clear.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Remote Control Design",
+        "Meeting Logistics"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 149,
+      "speaker": "Speaker_A",
+      "start_time": "12:02",
+      "end_time": "12:14",
+      "text": "I guess we're looking at, um, having a discussion at this point in time to help, you, um, folks design our, our new model, as it were.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.85,
+        "cues": "Explaining meeting purpose, inviting discussion.",
+        "re_relevance": "Sets the stage for requirements elicitation and design brainstorming."
+      },
+      "topics": [
+        "Remote Control Design",
+        "Meeting Logistics"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 150,
+      "speaker": "Speaker_A",
+      "start_time": "12:15",
+      "end_time": "12:18",
+      "text": "So, uh, any, any thoughts?",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Open-ended question, seeking input.",
+        "re_relevance": "Directly prompts for stakeholder needs and design ideas."
+      },
+      "topics": [
+        "Remote Control Design"
+      ],
+      "re_signals": {
+        "requirement_type": "stakeholder_need",
+        "priority_hint": "medium",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 151,
+      "speaker": "Speaker_C",
+      "start_time": "12:19",
+      "end_time": "12:24",
+      "text": "Um, I know maybe from with some remote controls, the buttons are a little small, they're quite hard to press.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.85,
+        "cues": "Identifying a problem, calm.",
+        "re_relevance": "Highlights a usability issue from existing products, leading to a non-functional requirement."
+      },
+      "topics": [
+        "Remote Control Design",
+        "Usability"
+      ],
+      "re_signals": {
+        "requirement_type": "non-functional",
+        "priority_hint": "medium",
+        "extracted_requirement": "The system shall have buttons that are easy to press."
+      }
+    },
+    {
+      "id": 152,
+      "speaker": "Speaker_C",
+      "start_time": "12:25",
+      "end_time": "12:28",
+      "text": "So maybe we can look at something with, uh, easy to press buttons.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.85,
+        "cues": "Suggesting a solution, calm.",
+        "re_relevance": "Proposes a non-functional requirement for usability."
+      },
+      "topics": [
+        "Remote Control Design",
+        "Usability"
+      ],
+      "re_signals": {
+        "requirement_type": "non-functional",
+        "priority_hint": "medium",
+        "extracted_requirement": "The system shall have easy-to-press buttons."
+      }
+    },
+    {
+      "id": 153,
+      "speaker": "Speaker_C",
+      "start_time": "12:29",
+      "end_time": "12:30",
+      "text": "As that's the main function.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.85,
+        "cues": "Stating a reason, clear.",
+        "re_relevance": "Emphasizes the importance of button functionality, linking it to core system function."
+      },
+      "topics": [
+        "Remote Control Design",
+        "Usability"
+      ],
+      "re_signals": {
+        "requirement_type": "functional",
+        "priority_hint": "high",
+        "extracted_requirement": "The system's primary function shall involve button interaction."
+      }
+    },
+    {
+      "id": 154,
+      "speaker": "Speaker_A",
+      "start_time": "12:31",
+      "end_time": "12:32",
+      "text": "Okay, so.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Acknowledging, prompting for more.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Remote Control Design"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 155,
+      "speaker": "Speaker_A",
+      "start_time": "12:33",
+      "end_time": "12:44",
+      "text": "So, basically we're looking for some, um, we're looking for a device that is, um, robust.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.9,
+        "cues": "Summarizing, clear.",
+        "re_relevance": "Identifies a key non-functional requirement for durability."
+      },
+      "topics": [
+        "Remote Control Design"
+      ],
+      "re_signals": {
+        "requirement_type": "non-functional",
+        "priority_hint": "high",
+        "extracted_requirement": "The system shall be robust."
+      }
+    },
+    {
+      "id": 156,
+      "speaker": "Speaker_A",
+      "start_time": "12:45",
+      "end_time": "12:49",
+      "text": "And therefore, uh, won't get damaged too easily.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.85,
+        "cues": "Elaborating on robustness, clear.",
+        "re_relevance": "Further defines the non-functional requirement of durability."
+      },
+      "topics": [
+        "Remote Control Design"
+      ],
+      "re_signals": {
+        "requirement_type": "non-functional",
+        "priority_hint": "high",
+        "extracted_requirement": "The system shall not be easily damaged."
+      }
+    },
+    {
+      "id": 157,
+      "speaker": "Speaker_A",
+      "start_time": "12:50",
+      "end_time": "12:58",
+      "text": "Um, we're looking for a device that is, uh, what was the other thing you said there?",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.75,
+        "cues": "Prompting for more requirements, slightly hesitant.",
+        "re_relevance": "Actively eliciting further requirements from stakeholders."
+      },
+      "topics": [
+        "Remote Control Design"
+      ],
+      "re_signals": {
+        "requirement_type": "stakeholder_need",
+        "priority_hint": "medium",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 158,
+      "speaker": "Speaker_C",
+      "start_time": "12:59",
+      "end_time": "13:01",
+      "text": "Um, sort of easy to use.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.85,
+        "cues": "Suggesting a characteristic, calm.",
+        "re_relevance": "Identifies a key non-functional requirement for usability."
+      },
+      "topics": [
+        "Remote Control Design",
+        "Usability"
+      ],
+      "re_signals": {
+        "requirement_type": "non-functional",
+        "priority_hint": "high",
+        "extracted_requirement": "The system shall be easy to use."
+      }
+    },
+    {
+      "id": 159,
+      "speaker": "Speaker_C",
+      "start_time": "13:01",
+      "end_time": "13:03",
+      "text": "Easy to use, accessible.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.85,
+        "cues": "Adding more characteristics, clear.",
+        "re_relevance": "Further defines usability and introduces accessibility as non-functional requirements."
+      },
+      "topics": [
+        "Remote Control Design",
+        "Usability"
+      ],
+      "re_signals": {
+        "requirement_type": "non-functional",
+        "priority_hint": "high",
+        "extracted_requirement": "The system shall be accessible."
+      }
+    },
+    {
+      "id": 160,
+      "speaker": "Speaker_A",
+      "start_time": "13:04",
+      "end_time": "13:05",
+      "text": "Use.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.7,
+        "cues": "Repeating for confirmation.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Remote Control Design"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 161,
+      "speaker": "Speaker_C",
+      "start_time": "13:06",
+      "end_time": "13:07",
+      "text": "As it's easy to use and see.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.85,
+        "cues": "Adding another characteristic, clear.",
+        "re_relevance": "Adds 'visibility' or 'clarity' as a non-functional requirement for usability."
+      },
+      "topics": [
+        "Remote Control Design",
+        "Usability"
+      ],
+      "re_signals": {
+        "requirement_type": "non-functional",
+        "priority_hint": "medium",
+        "extracted_requirement": "The system shall be easy to see/understand."
+      }
+    },
+    {
+      "id": 162,
+      "speaker": "Speaker_A",
+      "start_time": "13:08",
+      "end_time": "13:09",
+      "text": "And see.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Repeating for confirmation.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Remote Control Design"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 163,
+      "speaker": "Speaker_A",
+      "start_time": "13:10",
+      "end_time": "13:10",
+      "text": "Okay.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Acknowledging.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Remote Control Design"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 164,
+      "speaker": "Speaker_B",
+      "start_time": "13:12",
+      "end_time": "13:15",
+      "text": "Can I just check, is this just a television remote?",
+      "emotion": {
+        "primary": "uncertain",
+        "confidence": 0.85,
+        "cues": "Questioning, seeking clarification on scope.",
+        "re_relevance": "Clarifies the functional scope of the remote control, a critical requirement."
+      },
+      "topics": [
+        "Remote Control Design",
+        "Multifunctionality"
+      ],
+      "re_signals": {
+        "requirement_type": "functional",
+        "priority_hint": "high",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 165,
+      "speaker": "Speaker_B",
+      "start_time": "13:16",
+      "end_time": "13:22",
+      "text": "Because a lot of, um, systems are kind of TV, video combined now, or TV, DVD combined.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Providing context, informative.",
+        "re_relevance": "Highlights existing market trends and potential for expanded functionality."
+      },
+      "topics": [
+        "Remote Control Design",
+        "Multifunctionality"
+      ],
+      "re_signals": {
+        "requirement_type": "stakeholder_need",
+        "priority_hint": "medium",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 166,
+      "speaker": "Speaker_B",
+      "start_time": "13:23",
+      "end_time": "13:29",
+      "text": "And one of the most annoying things is having like five remotes in a house. So if you've got a combined system, it could be a combined remote.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.85,
+        "cues": "Expressing a pain point, suggesting a solution.",
+        "re_relevance": "Identifies a strong stakeholder need for multifunctionality to reduce clutter and improve user experience."
+      },
+      "topics": [
+        "Remote Control Design",
+        "Multifunctionality",
+        "Usability"
+      ],
+      "re_signals": {
+        "requirement_type": "stakeholder_need",
+        "priority_hint": "high",
+        "extracted_requirement": "The system shall be a combined remote for multiple devices (e.g., TV, video, DVD)."
+      }
+    },
+    {
+      "id": 167,
+      "speaker": "Speaker_C",
+      "start_time": "13:30",
+      "end_time": "13:30",
+      "text": "I think.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.6,
+        "cues": "Brief, indicating thought.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Remote Control Design"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 168,
+      "speaker": "Speaker_B",
+      "start_time": "13:31",
+      "end_time": "13:32",
+      "text": "Or is it just a television that we're supposed to be doing?",
+      "emotion": {
+        "primary": "uncertain",
+        "confidence": 0.85,
+        "cues": "Questioning, seeking clarification on scope.",
+        "re_relevance": "Reiterates the need to define the functional scope of the remote."
+      },
+      "topics": [
+        "Remote Control Design",
+        "Multifunctionality"
+      ],
+      "re_signals": {
+        "requirement_type": "functional",
+        "priority_hint": "high",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 169,
+      "speaker": "Speaker_A",
+      "start_time": "13:34",
+      "end_time": "13:36",
+      "text": "Well, um, basically I'll get back to you on that.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Deferring a decision, calm.",
+        "re_relevance": "Indicates a decision point that needs further consideration or input."
+      },
+      "topics": [
+        "Remote Control Design",
+        "Meeting Logistics"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 170,
+      "speaker": "Speaker_A",
+      "start_time": "13:36",
+      "end_time": "13:45",
+      "text": "But it seems to me sensible because, as you rightly said, there's nothing more annoying than having three or four devices littered about the, uh, about the room.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.85,
+        "cues": "Agreeing with the sentiment, emphasizing the problem.",
+        "re_relevance": "Supports the stakeholder need for a combined remote, indicating a preference for multifunctionality."
+      },
+      "topics": [
+        "Remote Control Design",
+        "Multifunctionality",
+        "Usability"
+      ],
+      "re_signals": {
+        "requirement_type": "stakeholder_need",
+        "priority_hint": "high",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 171,
+      "speaker": "Speaker_C",
+      "start_time": "13:46",
+      "end_time": "13:46",
+      "text": "Yeah.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Agreeing.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Multifunctionality"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 172,
+      "speaker": "Speaker_A",
+      "start_time": "13:51",
+      "end_time": "13:55",
+      "text": "So a device for for all remotes.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.9,
+        "cues": "Summarizing the desired functionality, clear.",
+        "re_relevance": "Explicitly states a functional requirement for universal control."
+      },
+      "topics": [
+        "Remote Control Design",
+        "Multifunctionality"
+      ],
+      "re_signals": {
+        "requirement_type": "functional",
+        "priority_hint": "high",
+        "extracted_requirement": "The system shall control all remote-controlled devices."
+      }
+    },
+    {
+      "id": 173,
+      "speaker": "Speaker_C",
+      "start_time": "13:59",
+      "end_time": "14:00",
+      "text": "So it's one remote for all, so you go.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.85,
+        "cues": "Confirming understanding, summarizing.",
+        "re_relevance": "Confirms the understanding of the multifunctionality requirement."
+      },
+      "topics": [
+        "Remote Control Design",
+        "Multifunctionality"
+      ],
+      "re_signals": {
+        "requirement_type": "functional",
+        "priority_hint": "high",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 174,
+      "speaker": "Speaker_A",
+      "start_time": "14:01",
+      "end_time": "14:01",
+      "text": "Okay.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Acknowledging.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Remote Control Design"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 175,
+      "speaker": "Speaker_D",
+      "start_time": "14:01",
+      "end_time": "14:02",
+      "text": "Yeah.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Agreeing.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Remote Control Design"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 176,
+      "speaker": "Speaker_D",
+      "start_time": "14:02",
+      "end_time": "14:08",
+      "text": "Um, one of the things, um, we've found from the market research is that people often get confused by the number of buttons on them as well.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.85,
+        "cues": "Presenting research findings, calm.",
+        "re_relevance": "Identifies a critical usability issue from market research, leading to a non-functional requirement for simplicity."
+      },
+      "topics": [
+        "Remote Control Design",
+        "Usability",
+        "Simplicity vs. Complexity"
+      ],
+      "re_signals": {
+        "requirement_type": "non-functional",
+        "priority_hint": "high",
+        "extracted_requirement": "The system shall minimize the number of buttons to avoid user confusion."
+      }
+    },
+    {
+      "id": 177,
+      "speaker": "Speaker_D",
+      "start_time": "14:08",
+      "end_time": "14:10",
+      "text": "Because there's quite often lots and lots.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Explaining, calm.",
+        "re_relevance": "Provides context for the usability issue."
+      },
+      "topics": [
+        "Remote Control Design",
+        "Simplicity vs. Complexity"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 178,
+      "speaker": "Speaker_D",
+      "start_time": "14:12",
+      "end_time": "14:22",
+      "text": "And, um, sometimes, uh, they'd sort of remote controls defeat their own purpose because you're sat in the chair and the remote is somewhere else in the room.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.85,
+        "cues": "Identifying a problem, calm.",
+        "re_relevance": "Highlights a user experience problem, suggesting a need for a solution related to remote accessibility."
+      },
+      "topics": [
+        "Remote Control Design",
+        "Usability"
+      ],
+      "re_signals": {
+        "requirement_type": "stakeholder_need",
+        "priority_hint": "medium",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 179,
+      "speaker": "Speaker_D",
+      "start_time": "14:23",
+      "end_time": "14:28",
+      "text": "So, whereas in the past you'd have to get up to change the channel, now you have to get up to sort of pick up the remote.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Explaining the problem, calm.",
+        "re_relevance": "Further elaborates on the user experience problem."
+      },
+      "topics": [
+        "Remote Control Design",
+        "Usability"
+      ],
+      "re_signals": {
+        "requirement_type": "stakeholder_need",
+        "priority_hint": "medium",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 180,
+      "speaker": "Speaker_D",
+      "start_time": "14:29",
+      "end_time": "14:39",
+      "text": "So, so I don't, we need to sort of maybe think about how, um, we could maybe, uh, develop a remote control which moves around the room.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.75,
+        "cues": "Brainstorming, speculative, slightly humorous.",
+        "re_relevance": "Proposes a highly innovative, potentially futuristic functional requirement to address the remote accessibility issue."
+      },
+      "topics": [
+        "Remote Control Design",
+        "Future Ideas"
+      ],
+      "re_signals": {
+        "requirement_type": "functional",
+        "priority_hint": "low",
+        "extracted_requirement": "The system could potentially move around the room."
+      }
+    },
+    {
+      "id": 181,
+      "speaker": "Speaker_A",
+      "start_time": "14:40",
+      "end_time": "14:40",
+      "text": "Hmm.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.6,
+        "cues": "Humming, thinking.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Remote Control Design"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 182,
+      "speaker": "Speaker_B",
+      "start_time": "14:41",
+      "end_time": "14:41",
+      "text": "",
+      "emotion": {
+        "primary": "positive",
+        "confidence": 0.7,
+        "cues": "Laughter, reacting to humor.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Humor"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 183,
+      "speaker": "Speaker_D",
+      "start_time": "14:42",
+      "end_time": "14:45",
+      "text": "That's, that's maybe something for the future, I need to talk to your television, but.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.75,
+        "cues": "Humorous, acknowledging the futuristic nature.",
+        "re_relevance": "Contextualizes the futuristic idea as a long-term possibility."
+      },
+      "topics": [
+        "Remote Control Design",
+        "Future Ideas",
+        "Humor"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 184,
+      "speaker": "Speaker_A",
+      "start_time": "14:47",
+      "end_time": "15:03",
+      "text": "But it's in a sense it's, uh, mutually exclusive. You can't have both the, the one device and then have few buttons on it to, because you want, you want simplicity as well, you want any idiot to be able to use it.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.85,
+        "cues": "Explaining a trade-off, clear and analytical.",
+        "re_relevance": "Identifies a critical constraint: the trade-off between multifunctionality and simplicity, leading to a non-functional requirement for ease of use."
+      },
+      "topics": [
+        "Remote Control Design",
+        "Simplicity vs. Complexity",
+        "Multifunctionality",
+        "Usability"
+      ],
+      "re_signals": {
+        "requirement_type": "constraint",
+        "priority_hint": "high",
+        "extracted_requirement": "The system shall be simple enough for any user to operate."
+      }
+    },
+    {
+      "id": 185,
+      "speaker": "Speaker_A",
+      "start_time": "15:04",
+      "end_time": "15:08",
+      "text": "Whilst at the same time you want, as you rightly said, one remote for all.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.85,
+        "cues": "Continuing to explain the trade-off, clear.",
+        "re_relevance": "Reiterates the functional requirement for universal control, highlighting the conflict with simplicity."
+      },
+      "topics": [
+        "Remote Control Design",
+        "Simplicity vs. Complexity",
+        "Multifunctionality"
+      ],
+      "re_signals": {
+        "requirement_type": "functional",
+        "priority_hint": "high",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 186,
+      "speaker": "Speaker_C",
+      "start_time": "15:09",
+      "end_time": "15:09",
+      "text": "Mhm.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Affirmative hum.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Simplicity vs. Complexity"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 187,
+      "speaker": "Speaker_A",
+      "start_time": "15:10",
+      "end_time": "15:14",
+      "text": "And so, uh, these are probably mutually exclusive options.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.85,
+        "cues": "Concluding on the trade-off, clear.",
+        "re_relevance": "Explicitly states the constraint of mutually exclusive options, requiring a decision or compromise."
+      },
+      "topics": [
+        "Remote Control Design",
+        "Simplicity vs. Complexity",
+        "Multifunctionality"
+      ],
+      "re_signals": {
+        "requirement_type": "constraint",
+        "priority_hint": "high",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 188,
+      "speaker": "Speaker_C",
+      "start_time": "15:15",
+      "end_time": "15:15",
+      "text": "Yeah.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Agreeing.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Simplicity vs. Complexity"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 189,
+      "speaker": "Speaker_A",
+      "start_time": "15:16",
+      "end_time": "15:18",
+      "text": "That, uh.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.6,
+        "cues": "Trailing off, thinking.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Simplicity vs. Complexity"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 190,
+      "speaker": "Speaker_A",
+      "start_time": "15:18",
+      "end_time": "15:18",
+      "text": "Hmm.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.6,
+        "cues": "Humming, thinking.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Simplicity vs. Complexity"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 191,
+      "speaker": "Speaker_A",
+      "start_time": "15:19",
+      "end_time": "15:30",
+      "text": "You could argue that experience of using devices and similar devices, as people get more and more used to using remotes, therefore they're more au fait with handling them, therefore you can make them more complicated as time goes on.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.85,
+        "cues": "Presenting an argument, analytical.",
+        "re_relevance": "Suggests a strategy for managing complexity over time, impacting the product roadmap."
+      },
+      "topics": [
+        "Remote Control Design",
+        "Simplicity vs. Complexity",
+        "Future Ideas"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 192,
+      "speaker": "Speaker_C",
+      "start_time": "15:31",
+      "end_time": "15:33",
+      "text": "Maybe we could, um, have better instructions with the remote.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.85,
+        "cues": "Suggesting a solution, calm.",
+        "re_relevance": "Proposes a non-functional requirement for documentation to aid usability."
+      },
+      "topics": [
+        "Remote Control Design",
+        "Usability"
+      ],
+      "re_signals": {
+        "requirement_type": "non-functional",
+        "priority_hint": "medium",
+        "extracted_requirement": "The system shall include clear instructions."
+      }
+    },
+    {
+      "id": 193,
+      "speaker": "Speaker_C",
+      "start_time": "15:33",
+      "end_time": "15:37",
+      "text": "Or we just doing the design of the remote control itself, or sort of the instructions that would come with it.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Clarifying scope, questioning.",
+        "re_relevance": "Clarifies the project scope regarding documentation vs. physical design."
+      },
+      "topics": [
+        "Remote Control Design",
+        "Meeting Logistics"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 194,
+      "speaker": "Speaker_A",
+      "start_time": "15:38",
+      "end_time": "15:38",
+      "text": "Well.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.6,
+        "cues": "Brief, acknowledging.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Remote Control Design"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 195,
+      "speaker": "Speaker_A",
+      "start_time": "15:40",
+      "end_time": "15:40",
+      "text": "Better instructions.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.85,
+        "cues": "Acknowledging the suggestion, clear.",
+        "re_relevance": "Confirms the consideration of 'better instructions' as a requirement."
+      },
+      "topics": [
+        "Remote Control Design",
+        "Usability"
+      ],
+      "re_signals": {
+        "requirement_type": "non-functional",
+        "priority_hint": "medium",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 196,
+      "speaker": "Speaker_C",
+      "start_time": "15:41",
+      "end_time": "15:41",
+      "text": "Yeah.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Agreeing.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Remote Control Design"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 197,
+      "speaker": "Speaker_D",
+      "start_time": "15:43",
+      "end_time": "15:51",
+      "text": "I mean, we've done some research, um, about sort of, you know, what the cutting edge sort of handheld devices are.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.85,
+        "cues": "Providing context, informative.",
+        "re_relevance": "Establishes background research for potential advanced features."
+      },
+      "topics": [
+        "Remote Control Design",
+        "Future Ideas"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 198,
+      "speaker": "Speaker_D",
+      "start_time": "15:52",
+      "end_time": "16:13",
+      "text": "And a lot of them sort of use, you know, they're like, they're like mini laptops. So it's possible that we could devise a system where, where you're, you're basically sort of holding a miniature computer which is controlling all your, your sort of your television, your stereo, and where, you know, if you buy a new thing, then it's sort of, you can link it to that as well, maybe.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.85,
+        "cues": "Explaining advanced concepts, speculative.",
+        "re_relevance": "Proposes advanced functional requirements for a highly integrated and adaptable remote control."
+      },
+      "topics": [
+        "Remote Control Design",
+        "Multifunctionality",
+        "Future Ideas"
+      ],
+      "re_signals": {
+        "requirement_type": "functional",
+        "priority_hint": "medium",
+        "extracted_requirement": "The system shall function as a miniature computer controlling multiple devices (e.g., TV, stereo). The system shall allow linking to new devices."
+      }
+    },
+    {
+      "id": 199,
+      "speaker": "Speaker_A",
+      "start_time": "16:14",
+      "end_time": "16:14",
+      "text": "Okay.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Acknowledging.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Remote Control Design"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 200,
+      "speaker": "Speaker_A",
+      "start_time": "16:15",
+      "end_time": "16:18",
+      "text": "Um, well, we've got five minutes before the end of the meeting.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.9,
+        "cues": "Stating a fact, clear.",
+        "re_relevance": "Highlights a time constraint for the meeting, prompting wrap-up."
+      },
+      "topics": [
+        "Meeting Logistics"
+      ],
+      "re_signals": {
+        "requirement_type": "constraint",
+        "priority_hint": "high",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 201,
+      "speaker": "Speaker_A",
+      "start_time": "16:18",
+      "end_time": "16:22",
+      "text": "So, uh, we have to, uh, start winding up.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.9,
+        "cues": "Directing the meeting to conclude, clear.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Meeting Logistics"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 202,
+      "speaker": "Speaker_A",
+      "start_time": "16:24",
+      "end_time": "16:27",
+      "text": "Is there next meeting in 30 minutes.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.9,
+        "cues": "Stating a fact, clear.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Meeting Logistics"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 203,
+      "speaker": "Speaker_C",
+      "start_time": "16:28",
+      "end_time": "16:28",
+      "text": "Okay.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Acknowledging.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Meeting Logistics"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 204,
+      "speaker": "Speaker_A",
+      "start_time": "16:30",
+      "end_time": "16:31",
+      "text": "So, um.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.7,
+        "cues": "Transitioning, filler.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Meeting Logistics"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 205,
+      "speaker": "Speaker_A",
+      "start_time": "16:35",
+      "end_time": "16:40",
+      "text": "Right, so we've got ID the, come on, where's my.",
+      "emotion": {
+        "primary": "frustrated",
+        "confidence": 0.7,
+        "cues": "Strained tone, indicating struggle with technical issues.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Technical Issues"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 206,
+      "speaker": "Speaker_C",
+      "start_time": "16:40",
+      "end_time": "16:42",
+      "text": "You just click return, it should be okay.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Giving technical advice, calm.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Technical Issues"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 207,
+      "speaker": "Speaker_C",
+      "start_time": "16:43",
+      "end_time": "16:44",
+      "text": "Get rid of the message.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Giving technical advice, calm.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Technical Issues"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 208,
+      "speaker": "Speaker_C",
+      "start_time": "16:48",
+      "end_time": "16:48",
+      "text": "Oh, no.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.7,
+        "cues": "Exclamation, indicating the advice didn't work.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Technical Issues"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 209,
+      "speaker": "Speaker_A",
+      "start_time": "16:49",
+      "end_time": "16:50",
+      "text": "",
+      "emotion": {
+        "primary": "negative",
+        "confidence": 0.6,
+        "cues": "Laughter, reacting to continued technical issues.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Technical Issues",
+        "Humor"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 210,
+      "speaker": "Speaker_C",
+      "start_time": "16:51",
+      "end_time": "16:53",
+      "text": "If you hit, just hit return and it should get rid of the message.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Reiterating technical advice, calm.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Technical Issues"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 211,
+      "speaker": "Speaker_A",
+      "start_time": "17:06",
+      "end_time": "17:07",
+      "text": "Oh, there we go. Yay.",
+      "emotion": {
+        "primary": "excited",
+        "confidence": 0.9,
+        "cues": "Exclamation of relief and success, positive tone.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Technical Issues"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 212,
+      "speaker": "Speaker_A",
+      "start_time": "17:08",
+      "end_time": "17:09",
+      "text": "That's what I was looking for.",
+      "emotion": {
+        "primary": "satisfied",
+        "confidence": 0.9,
+        "cues": "Contented tone, indicating resolution.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Technical Issues"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 213,
+      "speaker": "Speaker_A",
+      "start_time": "17:10",
+      "end_time": "17:10",
+      "text": "Right.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Transitioning, clear.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Meeting Logistics"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 214,
+      "speaker": "Speaker_A",
+      "start_time": "17:12",
+      "end_time": "17:16",
+      "text": "We've got functional, uh oh, what happened to the.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.7,
+        "cues": "Starting to speak, then interrupted by a technical issue.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Technical Issues",
+        "Project Methodology"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 215,
+      "speaker": "Speaker_B",
+      "start_time": "17:17",
+      "end_time": "17:24",
+      "text": "I think that might be back to the start. Um, if you grab the kind of, uh, slide four and pull it down.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Giving technical advice, calm.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Technical Issues"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 216,
+      "speaker": "Speaker_C",
+      "start_time": "17:22",
+      "end_time": "17:23",
+      "text": "Oh, it's still slide four.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.75,
+        "cues": "Observational, calm.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Technical Issues"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 217,
+      "speaker": "Speaker_A",
+      "start_time": "17:33",
+      "end_time": "17:34",
+      "text": "Right.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Acknowledging.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Technical Issues"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 218,
+      "speaker": "Speaker_A",
+      "start_time": "17:43",
+      "end_time": "17:44",
+      "text": "Right. Sorry about that.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.85,
+        "cues": "Apologetic, calm.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Technical Issues",
+        "Meeting Logistics"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 219,
+      "speaker": "Speaker_A",
+      "start_time": "17:45",
+      "end_time": "17:46",
+      "text": "Okay.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Acknowledging, moving on.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Meeting Logistics"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 220,
+      "speaker": "Speaker_A",
+      "start_time": "17:46",
+      "end_time": "17:53",
+      "text": "So, we've got, um, the working design for ID, the UID, the technical functions design.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.85,
+        "cues": "Listing project phases, clear.",
+        "re_relevance": "Outlines the design deliverables for the project."
+      },
+      "topics": [
+        "Project Methodology"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 221,
+      "speaker": "Speaker_A",
+      "start_time": "17:54",
+      "end_time": "17:56",
+      "text": "Marketing, the user requirements specification.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.9,
+        "cues": "Listing project phases, clear.",
+        "re_relevance": "Highlights the importance of user requirements specification as a key deliverable."
+      },
+      "topics": [
+        "Project Methodology"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "high",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 222,
+      "speaker": "Speaker_A",
+      "start_time": "17:57",
+      "end_time": "18:02",
+      "text": "Specific instructions will be sent to you about your person, about your personal coach.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.85,
+        "cues": "Stating next steps, informative.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Meeting Logistics"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 223,
+      "speaker": "Speaker_A",
+      "start_time": "18:04",
+      "end_time": "18:09",
+      "text": "So, are we all clear what objectives we're looking to meet in the next 30 minutes?",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.85,
+        "cues": "Checking understanding, clear.",
+        "re_relevance": "Ensures alignment on immediate goals and requirements for the next work phase."
+      },
+      "topics": [
+        "Meeting Logistics"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "high",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 224,
+      "speaker": "Speaker_A",
+      "start_time": "18:10",
+      "end_time": "18:14",
+      "text": "And I guess I'll try and write up some minutes of this meeting.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.85,
+        "cues": "Stating an action item, clear.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Meeting Logistics"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 225,
+      "speaker": "Speaker_A",
+      "start_time": "18:14",
+      "end_time": "18:19",
+      "text": "To, uh, to give it to you for the next meeting.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.85,
+        "cues": "Explaining purpose, clear.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Meeting Logistics"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 226,
+      "speaker": "Speaker_C",
+      "start_time": "18:19",
+      "end_time": "18:19",
+      "text": "Okay.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Acknowledging.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Meeting Logistics"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 227,
+      "speaker": "Speaker_B",
+      "start_time": "18:20",
+      "end_time": "18:23",
+      "text": "I'm not exactly clear on what we're designing the remote for.",
+      "emotion": {
+        "primary": "uncertain",
+        "confidence": 0.85,
+        "cues": "Questioning, seeking clarification on scope.",
+        "re_relevance": "Highlights a critical ambiguity in the project's functional scope, requiring immediate clarification."
+      },
+      "topics": [
+        "Remote Control Design",
+        "Multifunctionality"
+      ],
+      "re_signals": {
+        "requirement_type": "functional",
+        "priority_hint": "high",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 228,
+      "speaker": "Speaker_B",
+      "start_time": "18:23",
+      "end_time": "18:28",
+      "text": "Is this a multifunctional one, or do we decide that ourselves as we go along and work on it?",
+      "emotion": {
+        "primary": "uncertain",
+        "confidence": 0.85,
+        "cues": "Asking for clarification on scope and decision-making process.",
+        "re_relevance": "Presents a key decision point regarding multifunctionality and project flexibility."
+      },
+      "topics": [
+        "Remote Control Design",
+        "Multifunctionality",
+        "Meeting Logistics"
+      ],
+      "re_signals": {
+        "requirement_type": "functional",
+        "priority_hint": "high",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 229,
+      "speaker": "Speaker_C",
+      "start_time": "18:29",
+      "end_time": "18:34",
+      "text": "I think you just said at the start it was a television remote, so we should just stick to that unless we get told otherwise.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.85,
+        "cues": "Recalling previous statement, suggesting a course of action.",
+        "re_relevance": "Provides a basis for the current scope decision, suggesting a single-function remote unless explicitly changed."
+      },
+      "topics": [
+        "Remote Control Design",
+        "Multifunctionality"
+      ],
+      "re_signals": {
+        "requirement_type": "functional",
+        "priority_hint": "high",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 230,
+      "speaker": "Speaker_A",
+      "start_time": "18:35",
+      "end_time": "18:45",
+      "text": "That's true, because during, during the course of our day we might make decisions based on information or meetings that would change where we're going.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.85,
+        "cues": "Acknowledging flexibility, explaining process.",
+        "re_relevance": "Highlights the iterative nature of requirements and design, allowing for future changes."
+      },
+      "topics": [
+        "Project Methodology",
+        "Meeting Logistics"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 231,
+      "speaker": "Speaker_A",
+      "start_time": "18:45",
+      "end_time": "18:50",
+      "text": "But at this point in time, I think you're right that, uh, so we'll make it just a TV.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.9,
+        "cues": "Making a decision, clear and firm.",
+        "re_relevance": "A clear decision on the functional scope of the remote control."
+      },
+      "topics": [
+        "Remote Control Design",
+        "Multifunctionality"
+      ],
+      "re_signals": {
+        "requirement_type": "functional",
+        "priority_hint": "high",
+        "extracted_requirement": "The system shall be a TV remote control only."
+      }
+    },
+    {
+      "id": 232,
+      "speaker": "Speaker_A",
+      "start_time": "18:51",
+      "end_time": "18:51",
+      "text": "Okay.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Acknowledging.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Meeting Logistics"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 233,
+      "speaker": "Speaker_C",
+      "start_time": "18:52",
+      "end_time": "18:52",
+      "text": "Okay.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Acknowledging.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Meeting Logistics"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 234,
+      "speaker": "Speaker_A",
+      "start_time": "18:53",
+      "end_time": "18:54",
+      "text": "So, we'll depart.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.7,
+        "cues": "Humorous, lighthearted.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Meeting Wrap-up",
+        "Humor"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 235,
+      "speaker": "Speaker_A",
+      "start_time": "18:55",
+      "end_time": "18:58",
+      "text": "We will stay here and, uh, and break off.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.85,
+        "cues": "Concluding the meeting, clear.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Meeting Wrap-up"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 236,
+      "speaker": "Speaker_A",
+      "start_time": "18:59",
+      "end_time": "19:02",
+      "text": "And I'll do minutes and, and we'll see you in half an hour.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.9,
+        "cues": "Stating action items and next meeting, clear.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Meeting Wrap-up",
+        "Meeting Logistics"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 237,
+      "speaker": "Speaker_C",
+      "start_time": "19:02",
+      "end_time": "19:03",
+      "text": "Okay, that's great.",
+      "emotion": {
+        "primary": "positive",
+        "confidence": 0.9,
+        "cues": "Enthusiastic, positive tone.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Meeting Wrap-up"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 238,
+      "speaker": "Speaker_B",
+      "start_time": "19:03",
+      "end_time": "19:03",
+      "text": "Okay.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Acknowledging.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Meeting Wrap-up"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    },
+    {
+      "id": 239,
+      "speaker": "Speaker_A",
+      "start_time": "19:04",
+      "end_time": "19:04",
+      "text": "Okay.",
+      "emotion": {
+        "primary": "neutral",
+        "confidence": 0.8,
+        "cues": "Acknowledging.",
+        "re_relevance": "None"
+      },
+      "topics": [
+        "Meeting Wrap-up"
+      ],
+      "re_signals": {
+        "requirement_type": "none",
+        "priority_hint": "none",
+        "extracted_requirement": null
+      }
+    }
+  ],
+  "topic_summary": {
+    "Technical Issues": "The meeting began with several technical difficulties related to audio and presentation slides, causing minor frustration and requiring troubleshooting. These issues recurred throughout the meeting, particularly when navigating presentation slides.",
+    "Meeting Logistics": "The meeting, scheduled for 25 minutes, aimed for introductions and to set the agenda. It concluded with a plan for minutes to be circulated and a follow-up meeting scheduled in 30 minutes. There was also a brief icebreaker activity.",
+    "Introductions": "All four participants introduced themselves: Alistair (Project Leader), Robin (Marketing Manager), Louisa (User Interface Designer), and Nick (Industrial Designer).",
+    "Project Methodology": "The project will follow a phased approach including functional, conceptual, and detailed design. The team will conduct various design activities throughout the day, with specific instructions to be provided by a personal coach.",
+    "Project Aim": "The primary goal is to develop a new remote control device. The aim is for this device to be more user-friendly and trendier than existing models, ultimately capturing a larger market share.",
+    "Remote Control Design": "Initial discussions focused on the new remote control device. Key requirements identified include robustness, ease of use, accessibility, and easy-to-press buttons. There was a significant discussion about whether the remote should be multifunctional (controlling TV, video, DVD) or solely for TV, with the decision made to focus on a TV-only remote for now.",
+    "Usability": "Usability is a high-priority non-functional requirement. Specific points raised include the need for easy-to-press buttons, an easy-to-use interface, and accessibility. Market research indicates that too many buttons can confuse users, highlighting a need for simplicity.",
+    "Cost & Market": "The target selling price for the new remote control is €25, with production costs limited to €12.50 per unit. The product is intended for international sales, not just within Europe. Profit margins will depend on overhead costs.",
+    "Icebreaker: Favorite Animal": "An icebreaker activity involved each participant drawing their favorite animal on a whiteboard and explaining their choice. Animals chosen were a cat, a bear, a dog, and fish, leading to lighthearted and humorous exchanges.",
+    "Humor": "Humor was used frequently throughout the meeting, particularly during technical difficulties, the icebreaker activity, and when discussing design challenges or personal preferences.",
+    "Multifunctionality": "A key discussion point was whether the remote should be multifunctional (controlling TV, video, DVD, etc.) or a single-purpose TV remote. The team acknowledged the user need for a 'one remote for all' solution but also the trade-off with simplicity. The initial decision was to proceed with a TV-only remote.",
+    "Simplicity vs. Complexity": "There's a recognized trade-off between having a single, multifunctional remote and keeping the device simple with fewer buttons. The team discussed that while users desire a 'one remote for all' solution, too many buttons lead to confusion. This presents a challenge in design, with a suggestion that complexity could increase over time as users become more accustomed to advanced remotes.",
+    "Future Ideas": "Brainstorming included futuristic concepts like a remote control that moves around the room to prevent it from getting lost, and a 'miniature computer' remote capable of controlling all devices and linking to new ones. The idea of providing better instructions was also raised as a way to manage complexity.",
+    "Meeting Wrap-up": "The meeting concluded with a reminder of the remaining time, a check for clarity on immediate objectives, and an action item for the project leader to prepare meeting minutes for the next session, scheduled in 30 minutes."
+  },
+  "sprint_signals": {
+    "mentioned_features": [
+      "New remote control device",
+      "More user-friendly than previous version",
+      "Trendier design",
+      "Robust device",
+      "Easy-to-press buttons",
+      "Easy to use interface",
+      "Accessible design",
+      "Combined remote for multiple devices (TV, video, DVD)",
+      "Miniature computer controlling multiple devices (TV, stereo)",
+      "Ability to link to new devices",
+      "Better instructions included with the remote",
+      "Remote control that moves around the room (futuristic)"
+    ],
+    "open_issues": [
+      "Balancing multifunctionality (one remote for all) with simplicity (few buttons) due to mutually exclusive options.",
+      "How to address the issue of remote controls getting lost (futuristic idea proposed)."
+    ],
+    "decisions_made": [
+      "The project aim is to develop a new remote control device.",
+      "The new remote control device shall be more user-friendly and trendier.",
+      "The target selling price for the device is €25.",
+      "The production cost per unit shall be limited to €12.50.",
+      "The remote control will initially be designed as a TV remote control only.",
+      "The remote control shall be robust, easy to use, and accessible.",
+      "The remote control shall have easy-to-press buttons."
+    ]
+  },
+  "emotion_distribution": {
+    "neutral": 0.8403,
+    "positive": 0.0252,
+    "negative": 0.042,
+    "frustrated": 0.0252,
+    "excited": 0.0084,
+    "uncertain": 0.0504,
+    "satisfied": 0.0084
+  }
+}

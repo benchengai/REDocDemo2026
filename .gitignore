@@ -1,0 +1,40 @@
+# ── Secrets ───────────────────────────────────────────────────────────────────
+.env
+*.key
+secrets.*
+
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# ── Audio data (large; download from AMI corpus separately) ───────────────────
+data/audio/
+*.wav
+*.mp3
+*.m4a
+*.flac
+*.ogg
+
+# ── Archives & build artifacts ────────────────────────────────────────────────
+*.zip
+*.tar.gz
+
+# ── Generated / debug output ──────────────────────────────────────────────────
+data/outputs/old/
+data/outputs/_*.txt
+data/outputs/_chunk_*
+*_SRS.docx
+
+# ── Local tooling ─────────────────────────────────────────────────────────────
+.claude/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# ── Stray pip install log ─────────────────────────────────────────────────────
+1.0.0

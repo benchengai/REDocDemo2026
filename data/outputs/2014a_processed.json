@@ -1,0 +1,298 @@
+{
+  "meeting_summary": {
+    "meeting_id": "2014a",
+    "duration_seconds": 1149,
+    "num_speakers": 5,
+    "language": "English",
+    "overall_sentiment": "neutral",
+    "key_themes": [
+      "Remote Control Design",
+      "Product Scope (TV vs. Universal)",
+      "Usability Requirements",
+      "Cost and Pricing Constraints",
+      "Project Goals"
+    ],
+    "decision_count": 4,
+    "unresolved_count": 2,
+    "dominant_emotions": [
+      "calm",
+      "satisfied",
+      "enthusiastic",
+      "discouraged"
+    ],
+    "brief": "This was the initial kickoff meeting for a project to design a new remote control. The team introduced themselves, discussed high-level project goals such as user-friendliness and market positioning, and established key financial constraints. A primary discussion point was the scope of the device, with the team deciding to focus on a TV-only remote for the time being, while also identifying several usability requirements and conflicts to be resolved in the design phase."
+  },
+  "requirements": [
+    {
+      "id": "FR-001",
+      "title": "Television Control",
+      "statement": "The remote control SHALL control television functions.",
+      "priority": "high",
+      "sentiment": "positive",
+      "detected_emotions": [
+        "calm",
+        "satisfied"
+      ],
+      "unresolved": false,
+      "conflict_level": "none",
+      "acceptance_criteria": [
+        "The remote shall successfully perform power on/off, channel up/down, volume up/down, and mute functions for the top 5 television brands by market share in the target international markets."
+      ],
+      "stakeholders": [
+        "Speaker_A",
+        "Speaker_C",
+        "Speaker_B"
+      ],
+      "evidence": "Speaker_C at 18:28 suggested sticking to the initial scope of a television remote control (calm, 0.9). Speaker_A at 18:34 agreed with this approach for the current phase of the project (calm, 0.9). Speaker_B at 19:02 expressed agreement with this decision (satisfied, 0.9), resolving the earlier ambiguity about the product's core function.",
+      "source_utterances": [
+        143,
+        144,
+        145,
+        148
+      ],
+      "first_mentioned": "18:19"
+    },
+    {
+      "id": "FR-002",
+      "title": "Product Instructions",
+      "statement": "The product SHALL be delivered with user instructions.",
+      "priority": "medium",
+      "sentiment": "neutral",
+      "detected_emotions": [
+        "calm"
+      ],
+      "unresolved": false,
+      "conflict_level": "none",
+      "acceptance_criteria": [
+        "A set of user instructions explaining all primary functions of the remote control must be included with the final product."
+      ],
+      "stakeholders": [
+        "Speaker_D",
+        "Speaker_A"
+      ],
+      "evidence": "Speaker_D at 15:31 suggested that better instructions could help with user confusion (calm, 0.9). Speaker_A at 15:39 acknowledged this point by repeating 'Better instructions' (calm, 0.9), indicating it was a valid consideration for the project.",
+      "source_utterances": [
+        118,
+        119
+      ],
+      "first_mentioned": "15:31"
+    }
+  ],
+  "non_functional_requirements": [
+    {
+      "id": "NFR-001",
+      "category": "usability",
+      "title": "Improved User-Friendliness",
+      "statement": "The remote control SHALL be more user-friendly than the previous model.",
+      "priority": "high",
+      "detected_emotions": [
+        "calm"
+      ],
+      "acceptance_criteria": [
+        "User satisfaction score, measured via a survey of at least 50 target users, SHALL be at least 20% higher than the score for the previous model.",
+        "The time taken for a new user to successfully complete a set of 5 standard tasks (e.g., change channel, adjust volume) SHALL be 25% less than with the previous model."
+      ],
+      "evidence": "Speaker_A at 02:45 stated a primary project goal is to make the new remote control device more user-friendly than the previous one (calm, 0.9). This was presented as a core driver for the project.",
+      "source_utterances": [
+        31
+      ],
+      "first_mentioned": "02:45"
+    },
+    {
+      "id": "NFR-002",
+      "category": "usability",
+      "title": "Trendy Design Aesthetic",
+      "statement": "The remote control SHALL have a 'trendy' design aesthetic.",
+      "priority": "medium",
+      "detected_emotions": [
+        "calm"
+      ],
+      "acceptance_criteria": [
+        "In a focus group with 20 participants from the target demographic, at least 75% of participants must rate the design as 'modern' or 'trendy' on a 5-point scale."
+      ],
+      "evidence": "Speaker_A at 02:45 mentioned that a goal for the new remote is to be 'trendier' or 'with it' to appeal to a bigger audience (calm, 0.9). This establishes a key design constraint for the industrial and UI designers.",
+      "source_utterances": [
+        31
+      ],
+      "first_mentioned": "02:45"
+    },
+    {
+      "id": "NFR-003",
+      "category": "cost",
+      "title": "Target Selling Price",
+      "statement": "The remote control SHALL have a target selling price of 25 euros.",
+      "priority": "high",
+      "detected_emotions": [
+        "calm"
+      ],
+      "acceptance_criteria": [
+        "The final Manufacturer's Suggested Retail Price (MSRP) for the product in the European market SHALL be 25 euros."
+      ],
+      "evidence": "Speaker_A at 10:38 stated that work has been done to establish an expected selling price of 25 euros (calm, 0.9). This information was attributed to the marketing manager, Speaker_D.",
+      "source_utterances": [
+        89
+      ],
+      "first_mentioned": "10:56"
+    },
+    {
+      "id": "NFR-004",
+      "category": "cost",
+      "title": "Production Cost Limit",
+      "statement": "The remote control SHALL have a production cost of no more than 12.50 euros per unit.",
+      "priority": "high",
+      "detected_emotions": [
+        "calm"
+      ],
+      "acceptance_criteria": [
+        "The total bill of materials (BOM) and manufacturing cost per unit SHALL not exceed 12.50 euros."
+      ],
+      "evidence": "Speaker_A at 11:02 specified that production costs must be limited to 12.50 euros per unit (calm, 0.9). This was presented as a firm financial constraint for the design and engineering teams.",
+      "source_utterances": [
+        90
+      ],
+      "first_mentioned": "11:02"
+    },
+    {
+      "id": "NFR-005",
+      "category": "portability",
+      "title": "International Market Suitability",
+      "statement": "The remote control SHALL be designed for international sale.",
+      "priority": "medium",
+      "detected_emotions": [
+        "calm"
+      ],
+      "acceptance_criteria": [
+        "All user-facing text or symbols on the device must be tested for comprehension and cultural appropriateness across the top 3 target international regions (e.g., North America, Europe, Asia).",
+        "The device must comply with electronic emissions and safety standards (e.g., CE, FCC) for the target international markets."
+      ],
+      "evidence": "Speaker_A at 11:02 stated the project is looking to sell internationally, not just in Europe (calm, 0.9). This implies the design must be suitable for a global audience.",
+      "source_utterances": [
+        90
+      ],
+      "first_mentioned": "11:02"
+    },
+    {
+      "id": "NFR-006",
+      "category": "usability",
+      "title": "Button Actuation",
+      "statement": "The remote control buttons SHALL be easy to press.",
+      "priority": "high",
+      "detected_emotions": [
+        "calm"
+      ],
+      "acceptance_criteria": [
+        "The force required to actuate any button SHALL be between 0.5 and 1.5 Newtons."
+      ],
+      "evidence": "Speaker_C at 12:19 raised the issue that buttons on some remotes are hard to press (calm, 0.9) and suggested the new design should feature 'easy to press buttons' (calm, 0.9). No one disagreed with this suggestion.",
+      "source_utterances": [
+        95,
+        96
+      ],
+      "first_mentioned": "12:19"
+    },
+    {
+      "id": "NFR-007",
+      "category": "reliability",
+      "title": "Physical Robustness",
+      "statement": "The remote control SHALL be physically robust.",
+      "priority": "high",
+      "detected_emotions": [
+        "calm"
+      ],
+      "acceptance_criteria": [
+        "The device SHALL remain fully functional after being dropped 5 times from a height of 1 meter onto a hardwood surface."
+      ],
+      "evidence": "Speaker_A at 12:31 stated that the team is looking for a device that is robust and won't get damaged too easily (calm, 0.9). This was framed as a key product characteristic.",
+      "source_utterances": [
+        97
+      ],
+      "first_mentioned": "12:31"
+    },
+    {
+      "id": "NFR-008",
+      "category": "usability",
+      "title": "Button Accessibility",
+      "statement": "The remote control buttons SHALL be accessible.",
+      "priority": "high",
+      "detected_emotions": [
+        "calm"
+      ],
+      "acceptance_criteria": [
+        "All primary function buttons (power, volume, channel) must be operable with a single hand by a user in the 5th to 95th percentile hand size."
+      ],
+      "evidence": "Speaker_C at 12:58 clarified their earlier point, stating the buttons should be accessible (calm, 0.9). Speaker_A at 13:03 confirmed understanding of this requirement (calm, 0.9).",
+      "source_utterances": [
+        99,
+        100
+      ],
+      "first_mentioned": "12:58"
+    },
+    {
+      "id": "NFR-009",
+      "category": "usability",
+      "title": "Button and Label Visibility",
+      "statement": "The remote control buttons and their labels SHALL be easy to see.",
+      "priority": "high",
+      "detected_emotions": [
+        "calm"
+      ],
+      "acceptance_criteria": [
+        "Button labels must have a minimum contrast ratio of 4.5:1 against their background.",
+        "All button labels must be legible from a distance of 50cm in lighting conditions of 200 lux."
+      ],
+      "evidence": "Speaker_C at 13:06 added that the remote should be 'easy to see' (calm, 0.9), which Speaker_A at 13:08 acknowledged and confirmed (calm, 0.9).",
+      "source_utterances": [
+        101,
+        102
+      ],
+      "first_mentioned": "13:06"
+    },
+    {
+      "id": "NFR-010",
+      "category": "usability",
+      "title": "Simplicity of Operation",
+      "statement": "The remote control design SHALL minimize user confusion from too many buttons.",
+      "priority": "high",
+      "detected_emotions": [
+        "calm"
+      ],
+      "acceptance_criteria": [
+        "The number of physical buttons on the primary face of the remote SHALL not exceed 20.",
+        "In a usability test with 20 new users, at least 90% must be able to complete 5 core tasks without referring to instructions."
+      ],
+      "evidence": "Speaker_D at 14:01, citing market research, stated that people often get confused by the number of buttons on remotes (calm, 0.9). Speaker_A at 14:47 acknowledged this desire for simplicity as a key design driver (calm, 0.9).",
+      "source_utterances": [
+        111,
+        116
+      ],
+      "first_mentioned": "14:01"
+    }
+  ],
+  "open_issues": [
+    {
+      "id": "OI-001",
+      "description": "A conflict exists between the goal of a simple, TV-only remote (FR-001, NFR-010) and the user need to control multiple devices (TV, DVD, stereo) to reduce clutter. A temporary decision was made to focus on TV-only, but the broader market need for a universal remote remains an unaddressed strategic question.",
+      "raised_by": [
+        "Speaker_B",
+        "Speaker_D",
+        "Speaker_A"
+      ],
+      "related_requirements": [
+        "FR-001",
+        "NFR-010"
+      ],
+      "conflict_level": "low",
+      "suggested_resolution": "Marketing (Speaker_D) to conduct a formal analysis on the target market's preference and willingness to pay for a universal remote versus a simple, single-device remote at the 25 euro price point."
+    },
+    {
+      "id": "OI-002",
+      "description": "The team discussed the possibility of advanced features, such as a 'miniature computer' style remote that could be updated to control new devices. The technical feasibility, cost implications, and user experience impact of such a design were not explored, and no decision was made on whether to pursue this concept.",
+      "raised_by": [
+        "Speaker_D"
+      ],
+      "related_requirements": [],
+      "conflict_level": "none",
+      "suggested_resolution": "The design team (Speaker_B, Speaker_C) should create a low-fidelity concept sketch of an advanced, programmable remote to facilitate discussion on its viability in a future meeting."
+    }
+  ]
+}

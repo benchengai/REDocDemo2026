@@ -1,0 +1,4455 @@
+{
+  "meeting_meta": {
+    "duration_seconds": 2911,
+    "num_speakers": 4,
+    "language": "English"
+  },
+  "utterances": [
+    {
+      "id": 1,
+      "speaker": "Speaker_A",
+      "start_time": "00:00",
+      "end_time": "00:02",
+      "text": "So, can I not save that?",
+      "emotion": "discouraged",
+      "confidence": 0.6
+    },
+    {
+      "id": 2,
+      "speaker": "Speaker_B",
+      "start_time": "00:03",
+      "end_time": "00:06",
+      "text": "No, you'd have to open it up from elsewhere.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 3,
+      "speaker": "Speaker_A",
+      "start_time": "00:09",
+      "end_time": "00:12",
+      "text": "I'm ready to exist. Do you want to place this system file? No.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 4,
+      "speaker": "Speaker_A",
+      "start_time": "00:18",
+      "end_time": "00:21",
+      "text": "And I should try to transfer it to my documents, but",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 5,
+      "speaker": "Speaker_B",
+      "start_time": "00:21",
+      "end_time": "00:25",
+      "text": "Yeah, you'll have to you'll have to close that window because that's the save one, isn't it? So",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 6,
+      "speaker": "Speaker_A",
+      "start_time": "00:26",
+      "end_time": "00:27",
+      "text": "And then find it.",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 7,
+      "speaker": "Speaker_A",
+      "start_time": "00:33",
+      "end_time": "00:34",
+      "text": "a spreadsheet.",
+      "emotion": "calm",
+      "confidence": 0.5
+    },
+    {
+      "id": 8,
+      "speaker": "Speaker_C",
+      "start_time": "00:38",
+      "end_time": "00:38",
+      "text": "Okay.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 9,
+      "speaker": "Speaker_A",
+      "start_time": "00:47",
+      "end_time": "00:51",
+      "text": "Yeah, but I've take out right, I'll just redo it. It's the easiest way.",
+      "emotion": "discouraged",
+      "confidence": 0.7
+    },
+    {
+      "id": 10,
+      "speaker": "Speaker_C",
+      "start_time": "00:55",
+      "end_time": "00:55",
+      "text": "All right.",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 11,
+      "speaker": "Speaker_C",
+      "start_time": "01:16",
+      "end_time": "01:18",
+      "text": "Well, we've made our prototype anyway.",
+      "emotion": "enthusiastic",
+      "confidence": 0.7
+    },
+    {
+      "id": 12,
+      "speaker": "Speaker_C",
+      "start_time": "01:19",
+      "end_time": "01:21",
+      "text": "You can have a good look at that.",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 13,
+      "speaker": "Speaker_B",
+      "start_time": "01:21",
+      "end_time": "01:22",
+      "text": "Pass it round.",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 14,
+      "speaker": "Speaker_C",
+      "start_time": "01:23",
+      "end_time": "01:25",
+      "text": "Notice it's slightly curved on the sides.",
+      "emotion": "enthusiastic",
+      "confidence": 0.7
+    },
+    {
+      "id": 15,
+      "speaker": "Speaker_B",
+      "start_time": "01:25",
+      "end_time": "01:26",
+      "text": "Very nice.",
+      "emotion": "satisfied",
+      "confidence": 0.9
+    },
+    {
+      "id": 16,
+      "speaker": "Speaker_C",
+      "start_time": "01:26",
+      "end_time": "01:31",
+      "text": "Um, it's almost curved like up to the main display as well.",
+      "emotion": "enthusiastic",
+      "confidence": 0.7
+    },
+    {
+      "id": 17,
+      "speaker": "Speaker_C",
+      "start_time": "01:32",
+      "end_time": "01:40",
+      "text": "And the little line at the bottom indicates the bit, the panel that you pull down and the extra function buttons are below that panel on the little line.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 18,
+      "speaker": "Speaker_C",
+      "start_time": "01:40",
+      "end_time": "01:43",
+      "text": "And we've got the sticker on the bottom with the company logo on.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 19,
+      "speaker": "Speaker_B",
+      "start_time": "01:44",
+      "end_time": "01:47",
+      "text": "We also have a Apple/ cherry design at the top.",
+      "emotion": "satisfied",
+      "confidence": 0.7
+    },
+    {
+      "id": 20,
+      "speaker": "Speaker_A",
+      "start_time": "01:48",
+      "end_time": "01:50",
+      "text": "So it is, yeah. Cherry would be all right actually.",
+      "emotion": "satisfied",
+      "confidence": 0.9
+    },
+    {
+      "id": 21,
+      "speaker": "Speaker_C",
+      "start_time": "01:51",
+      "end_time": "01:52",
+      "text": "Yeah, it's a bit more fun, isn't it?",
+      "emotion": "enthusiastic",
+      "confidence": 0.8
+    },
+    {
+      "id": 22,
+      "speaker": "Speaker_C",
+      "start_time": "01:52",
+      "end_time": "02:00",
+      "text": "And it's kind of not related to kind of you think Apple, you think computers like Apple Mac. Yeah, we might get a copyright, yeah.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 23,
+      "speaker": "Speaker_B",
+      "start_time": "02:00",
+      "end_time": "02:02",
+      "text": "What's this this one? What's that one there?",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 24,
+      "speaker": "Speaker_C",
+      "start_time": "02:02",
+      "end_time": "02:04",
+      "text": "Ah, that's the mute.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 25,
+      "speaker": "Speaker_B",
+      "start_time": "02:04",
+      "end_time": "02:05",
+      "text": "Oh, okay. The M.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 26,
+      "speaker": "Speaker_C",
+      "start_time": "02:05",
+      "end_time": "02:11",
+      "text": "And I it it probably have to be labeled mute, but um we didn't have anything small enough to write.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 27,
+      "speaker": "Speaker_B",
+      "start_time": "02:11",
+      "end_time": "02:17",
+      "text": "For the prototype model it was hard to get the um the actual labeling on the individual buttons.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 28,
+      "speaker": "Speaker_C",
+      "start_time": "02:17",
+      "end_time": "02:18",
+      "text": "Yeah.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 29,
+      "speaker": "Speaker_C",
+      "start_time": "02:19",
+      "end_time": "02:25",
+      "text": "Uh we just chose simple shapes for all of them. Um the important ones are the volume ones, so we made them a bit bigger.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 30,
+      "speaker": "Speaker_C",
+      "start_time": "02:25",
+      "end_time": "02:27",
+      "text": "The mute could possibly be a bit smaller.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 31,
+      "speaker": "Speaker_B",
+      "start_time": "02:28",
+      "end_time": "02:38",
+      "text": "Um, we've separated off in color the volume related buttons from the channel related buttons. So you've got the volume in orange on the design there and the the channel is in blue.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 32,
+      "speaker": "Speaker_A",
+      "start_time": "02:39",
+      "end_time": "02:43",
+      "text": "Right. Um all these things have cost implications.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 33,
+      "speaker": "Speaker_A",
+      "start_time": "02:44",
+      "end_time": "02:57",
+      "text": "And so when I'd done my thing on cost, a, I had assumed that the only uh button that would be a different color would be the uh the red apple button.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 34,
+      "speaker": "Speaker_A",
+      "start_time": "02:59",
+      "end_time": "03:08",
+      "text": "So, however, I've now lost the figures that I did for that. But um yeah, so but there would be a cost implication on that.",
+      "emotion": "discouraged",
+      "confidence": 0.7
+    },
+    {
+      "id": 35,
+      "speaker": "Speaker_A",
+      "start_time": "03:08",
+      "end_time": "03:17",
+      "text": "And uh I suppose that so whether wanted to put in all these colors would be uh open to debate, I suppose.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 36,
+      "speaker": "Speaker_C",
+      "start_time": "03:17",
+      "end_time": "03:22",
+      "text": "Well, the colors wouldn't that's they wouldn't be too important, but we didn't have any white Play-Doh.",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 37,
+      "speaker": "Speaker_A",
+      "start_time": "03:24",
+      "end_time": "03:26",
+      "text": "An important consideration.",
+      "emotion": "satisfied",
+      "confidence": 0.8
+    },
+    {
+      "id": 38,
+      "speaker": "Speaker_A",
+      "start_time": "03:27",
+      "end_time": "03:29",
+      "text": "Right. Okay. So, um",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 39,
+      "speaker": "Speaker_A",
+      "start_time": "03:31",
+      "end_time": "03:36",
+      "text": "and the second one underneath would be the idea for the slide away.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 40,
+      "speaker": "Speaker_A",
+      "start_time": "03:36",
+      "end_time": "03:37",
+      "text": "Right. Okay.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 41,
+      "speaker": "Speaker_A",
+      "start_time": "03:38",
+      "end_time": "03:41",
+      "text": "So we've got um detailed design meeting.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 42,
+      "speaker": "Speaker_A",
+      "start_time": "03:44",
+      "end_time": "03:44",
+      "text": "Right.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 43,
+      "speaker": "Speaker_A",
+      "start_time": "03:48",
+      "end_time": "03:56",
+      "text": "So, so we've got prototype presentation, which we've just done, evaluation criteria.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 44,
+      "speaker": "Speaker_A",
+      "start_time": "03:57",
+      "end_time": "04:00",
+      "text": "Um and finance.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 45,
+      "speaker": "Speaker_A",
+      "start_time": "04:00",
+      "end_time": "04:07",
+      "text": "So, I guess we have to evaluate if that meets the various aspects that we're looking for",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 46,
+      "speaker": "Speaker_A",
+      "start_time": "04:08",
+      "end_time": "04:12",
+      "text": "uh from um our previous meeting.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 47,
+      "speaker": "Speaker_A",
+      "start_time": "04:12",
+      "end_time": "04:15",
+      "text": "So, other than the fact that it doesn't have the second layer.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 48,
+      "speaker": "Speaker_A",
+      "start_time": "04:16",
+      "end_time": "04:25",
+      "text": "But um obviously obviously it would but other than that, we've got the red apple, we've got the buttons. The only thing that's really changed",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 49,
+      "speaker": "Speaker_A",
+      "start_time": "04:26",
+      "end_time": "04:30",
+      "text": "is the is the coloration of the buttons.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 50,
+      "speaker": "Speaker_A",
+      "start_time": "04:31",
+      "end_time": "04:38",
+      "text": "And the bit after the evaluation criteria is uh is the finance.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 51,
+      "speaker": "Speaker_A",
+      "start_time": "04:39",
+      "end_time": "04:48",
+      "text": "And and the cost implication, the only snag about this is that uh the cost is probably kind of important.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 52,
+      "speaker": "Speaker_A",
+      "start_time": "04:48",
+      "end_time": "04:56",
+      "text": "So, um and then the production evaluation as to how easy that would be to uh to manufacture.",
+      "emotion": "calm",
+      "confidence": "0.9"
+    },
+    {
+      "id": 53,
+      "speaker": "Speaker_A",
+      "start_time": "04:58",
+      "end_time": "04:58",
+      "text": "Um",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 54,
+      "speaker": "Speaker_A",
+      "start_time": "05:00",
+      "end_time": "05:03",
+      "text": "and whether it would uh",
+      "emotion": "calm",
+      "confidence": 0.6
+    },
+    {
+      "id": 55,
+      "speaker": "Speaker_B",
+      "start_time": "05:04",
+      "end_time": "05:08",
+      "text": "So have you had to do a presentation or were you just working on the prototype?",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 56,
+      "speaker": "Speaker_A",
+      "start_time": "05:08",
+      "end_time": "05:12",
+      "text": "This is a presentation of the prototype.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 57,
+      "speaker": "Speaker_A",
+      "start_time": "05:12",
+      "end_time": "05:26",
+      "text": "Right. So as far as the the finance of it would be concerned would be to make sure that the cost, I the production cost, because you may remember that was one of the first uh considerations, was to be end under um uh 1250 or two and a half",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 58,
+      "speaker": "Speaker_A",
+      "start_time": "05:27",
+      "end_time": "05:29",
+      "text": "12 and a half euros.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 59,
+      "speaker": "Speaker_A",
+      "start_time": "05:33",
+      "end_time": "05:35",
+      "text": "So there's no redesign.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 60,
+      "speaker": "Speaker_A",
+      "start_time": "05:36",
+      "end_time": "05:37",
+      "text": "So that should uh",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 61,
+      "speaker": "Speaker_A",
+      "start_time": "05:39",
+      "end_time": "05:52",
+      "text": "Right. So it seems to me that the thing that I have to do is is quickly find that uh",
+      "emotion": "anxious",
+      "confidence": 0.7
+    },
+    {
+      "id": 62,
+      "speaker": "Speaker_B",
+      "start_time": "05:57",
+      "end_time": "06:00",
+      "text": "Can we get this on the board just so we can see? Or do you mean you have the figures?",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 63,
+      "speaker": "Speaker_A",
+      "start_time": "06:03",
+      "end_time": "06:06",
+      "text": "Right. plug it in. plug it in into the",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 64,
+      "speaker": "Speaker_B",
+      "start_time": "06:06",
+      "end_time": "06:07",
+      "text": "Okay.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 65,
+      "speaker": "Speaker_B",
+      "start_time": "06:10",
+      "end_time": "06:13",
+      "text": "We could do is we could go along the production costs, look at the prototype.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 66,
+      "speaker": "Speaker_A",
+      "start_time": "06:14",
+      "end_time": "06:15",
+      "text": "Right.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 67,
+      "speaker": "Speaker_A",
+      "start_time": "06:15",
+      "end_time": "06:16",
+      "text": "Well,",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 68,
+      "speaker": "Speaker_B",
+      "start_time": "06:17",
+      "end_time": "06:17",
+      "text": "This should be",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 69,
+      "speaker": "Speaker_A",
+      "start_time": "06:20",
+      "end_time": "06:30",
+      "text": "Okay, so by the fact that we've got uh the simple chip and the uh kinetic energy source.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 70,
+      "speaker": "Speaker_A",
+      "start_time": "06:30",
+      "end_time": "06:44",
+      "text": "We've got a single curved case. We've got uh rubber uh case materials supplements.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 71,
+      "speaker": "Speaker_A",
+      "start_time": "06:44",
+      "end_time": "06:48",
+      "text": "So we had decided that we're having rubber buttons and",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 72,
+      "speaker": "Speaker_B",
+      "start_time": "06:51",
+      "end_time": "06:53",
+      "text": "Yeah, the push button interface.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 73,
+      "speaker": "Speaker_A",
+      "start_time": "06:57",
+      "end_time": "06:58",
+      "text": "Okay.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 74,
+      "speaker": "Speaker_A",
+      "start_time": "06:59",
+      "end_time": "07:09",
+      "text": "The button supplements, well, originally, I thought there would just be uh one in there because it was the one red apple.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 75,
+      "speaker": "Speaker_A",
+      "start_time": "07:11",
+      "end_time": "07:18",
+      "text": "So the so the real the real question then would come in, do you make all the buttons?",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 76,
+      "speaker": "Speaker_B",
+      "start_time": "07:20",
+      "end_time": "07:22",
+      "text": "Well, we'll do it on the prototype, so do two",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 77,
+      "speaker": "Speaker_B",
+      "start_time": "07:22",
+      "end_time": "07:23",
+      "text": "See how much it is.",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 78,
+      "speaker": "Speaker_A",
+      "start_time": "07:23",
+      "end_time": "07:24",
+      "text": "Well,",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 79,
+      "speaker": "Speaker_A",
+      "start_time": "07:24",
+      "end_time": "07:33",
+      "text": "So we've got one special button form which was the Apple. Everything else is going to be a standard. We've got special material rubber, wood, titanium, etc. Now",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 80,
+      "speaker": "Speaker_A",
+      "start_time": "07:34",
+      "end_time": "07:40",
+      "text": "So I was originally I was thinking what rubber wasn't special, but according to this, maybe it is.",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 81,
+      "speaker": "Speaker_A",
+      "start_time": "07:41",
+      "end_time": "07:48",
+      "text": "So and I mean effectively we've got 16 buttons that we're going to have on there.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 82,
+      "speaker": "Speaker_B",
+      "start_time": "07:49",
+      "end_time": "07:52",
+      "text": "Yeah. I think you just do one, don't you for the",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 83,
+      "speaker": "Speaker_A",
+      "start_time": "07:52",
+      "end_time": "08:00",
+      "text": "Well, I don't know. Is the sort of answer, is that meant to be all 16 buttons and therefore",
+      "emotion": "discouraged",
+      "confidence": 0.7
+    },
+    {
+      "id": 84,
+      "speaker": "Speaker_A",
+      "start_time": "08:01",
+      "end_time": "08:09",
+      "text": "I mean, what's the the option was maybe not to have rubber buttons, but just to have the one that was soft and spongy and therefore",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 85,
+      "speaker": "Speaker_B",
+      "start_time": "08:10",
+      "end_time": "08:13",
+      "text": "I think I think it's just it's just a one else",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 86,
+      "speaker": "Speaker_A",
+      "start_time": "08:14",
+      "end_time": "08:23",
+      "text": "Whereas it would be the special color would be for the so you would only have the one special button that was rubber whereas the rest would be hard plastic.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 87,
+      "speaker": "Speaker_B",
+      "start_time": "08:24",
+      "end_time": "08:30",
+      "text": "I think I think the button supplements is just a supplement for all the buttons but made in a different material rather than per button.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 88,
+      "speaker": "Speaker_B",
+      "start_time": "08:32",
+      "end_time": "08:34",
+      "text": "I don't know though.",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 89,
+      "speaker": "Speaker_A",
+      "start_time": "08:34",
+      "end_time": "08:36",
+      "text": "I would",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 90,
+      "speaker": "Speaker_A",
+      "start_time": "08:38",
+      "end_time": "08:44",
+      "text": "Every design change is I don't know. Um",
+      "emotion": "discouraged",
+      "confidence": 0.7
+    },
+    {
+      "id": 91,
+      "speaker": "Speaker_A",
+      "start_time": "08:47",
+      "end_time": "08:55",
+      "text": "Okay, um if we just had all the buttons as standard except for the one red apple, then that would take care of that, I guess.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 92,
+      "speaker": "Speaker_A",
+      "start_time": "08:56",
+      "end_time": "09:00",
+      "text": "We'd have one special color and one special button form.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 93,
+      "speaker": "Speaker_A",
+      "start_time": "09:02",
+      "end_time": "09:08",
+      "text": "And when I plugged that in last time, you must remember it has to be under 12 and a half.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 94,
+      "speaker": "Speaker_A",
+      "start_time": "09:10",
+      "end_time": "09:18",
+      "text": "As far as I know, that um that took care of the uh of the various supplements.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 95,
+      "speaker": "Speaker_A",
+      "start_time": "09:21",
+      "end_time": "09:22",
+      "text": "And if",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 96,
+      "speaker": "Speaker_A",
+      "start_time": "09:22",
+      "end_time": "09:23",
+      "text": "What happened?",
+      "emotion": "anxious",
+      "confidence": 0.9
+    },
+    {
+      "id": 97,
+      "speaker": "Speaker_B",
+      "start_time": "09:26",
+      "end_time": "09:30",
+      "text": "You just gone off the window onto another one. It's on the bottom row.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 98,
+      "speaker": "Speaker_C",
+      "start_time": "09:37",
+      "end_time": "09:42",
+      "text": "Maybe if you just minimize that one in the top right hand corner of the little box. Yeah.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 99,
+      "speaker": "Speaker_A",
+      "start_time": "09:43",
+      "end_time": "09:44",
+      "text": "Now, right.",
+      "emotion": "satisfied",
+      "confidence": 0.9
+    },
+    {
+      "id": 100,
+      "speaker": "Speaker_A",
+      "start_time": "09:46",
+      "end_time": "09:57",
+      "text": "Okay, so but the point would be that if we uh if we just did special, sorry, you were saying that it would be that one that you would put in one there.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 101,
+      "speaker": "Speaker_B",
+      "start_time": "09:57",
+      "end_time": "09:58",
+      "text": "Yeah.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 102,
+      "speaker": "Speaker_A",
+      "start_time": "09:58",
+      "end_time": "09:59",
+      "text": "Yeah.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 103,
+      "speaker": "Speaker_A",
+      "start_time": "10:01",
+      "end_time": "10:01",
+      "text": "Okay.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 104,
+      "speaker": "Speaker_B",
+      "start_time": "10:04",
+      "end_time": "10:08",
+      "text": "So that's 9.1 there, so we've got some",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 105,
+      "speaker": "Speaker_A",
+      "start_time": "10:06",
+      "end_time": "10:08",
+      "text": "So well no, it's 9.7 I've got.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 106,
+      "speaker": "Speaker_B",
+      "start_time": "10:08",
+      "end_time": "10:09",
+      "text": "Okay.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 107,
+      "speaker": "Speaker_A",
+      "start_time": "10:10",
+      "end_time": "10:11",
+      "text": "Okay.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 108,
+      "speaker": "Speaker_B",
+      "start_time": "10:11",
+      "end_time": "10:12",
+      "text": "Just gives a bit of",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 109,
+      "speaker": "Speaker_A",
+      "start_time": "10:12",
+      "end_time": "10:27",
+      "text": "So that would that would work out fine if uh assuming your correction or or assuming that that one change covers all the buttons, then that would be fine.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 110,
+      "speaker": "Speaker_B",
+      "start_time": "10:28",
+      "end_time": "10:28",
+      "text": "Mhm.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 111,
+      "speaker": "Speaker_B",
+      "start_time": "10:29",
+      "end_time": "10:47",
+      "text": "And there's nothing else as far as I can see that we would plan to put on. Just a question on those um on the electronics, we've got the sample sensor. At the moment we've just got the simple chip which costs one. Um I guess the sample sensor, sample speaker would be the voice recognition thing. Yeah. Which puts up to four.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 112,
+      "speaker": "Speaker_B",
+      "start_time": "10:48",
+      "end_time": "10:54",
+      "text": "Which would be slightly over our budget, but if we get something else down to slightly lower standard, maybe go with the one of the special form buttons then we could have",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 113,
+      "speaker": "Speaker_A",
+      "start_time": "10:55",
+      "end_time": "10:56",
+      "text": "Well, hold on.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 114,
+      "speaker": "Speaker_A",
+      "start_time": "10:56",
+      "end_time": "11:03",
+      "text": "Um if we Okay, that gives us 12.7.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 115,
+      "speaker": "Speaker_B",
+      "start_time": "11:04",
+      "end_time": "11:11",
+      "text": "So maybe if we got rid of like the maybe one of the special colors, kept them all the same color, then we could have the voice recognition.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 116,
+      "speaker": "Speaker_A",
+      "start_time": "11:12",
+      "end_time": "11:16",
+      "text": "But remember that the idea was to keep it the color of the company. Oh, I see.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 117,
+      "speaker": "Speaker_A",
+      "start_time": "11:16",
+      "end_time": "11:19",
+      "text": "So just take out the special color for the Apple and",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 118,
+      "speaker": "Speaker_B",
+      "start_time": "11:19",
+      "end_time": "11:20",
+      "text": "Yeah, yeah.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 119,
+      "speaker": "Speaker_C",
+      "start_time": "11:21",
+      "end_time": "11:26",
+      "text": "Um when we wouldn't you have to keep the simple chip there as well? You know how you turned that one to a zero?",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 120,
+      "speaker": "Speaker_C",
+      "start_time": "11:26",
+      "end_time": "11:31",
+      "text": "Wouldn't the chip and the sample speaker be separate things? Oh, possibly. Yeah, yeah, maybe.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 121,
+      "speaker": "Speaker_B",
+      "start_time": "11:32",
+      "end_time": "11:34",
+      "text": "Maybe um we'd be giving up on the kinetic.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 122,
+      "speaker": "Speaker_A",
+      "start_time": "11:37",
+      "end_time": "11:41",
+      "text": "And go for battery instead. That would give you one less. Yeah, that would save us one.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 123,
+      "speaker": "Speaker_B",
+      "start_time": "11:41",
+      "end_time": "11:49",
+      "text": "But we'd still be slightly But you reckon that I mean, the thing is that you wanted to appeal to people and not have to replace batteries.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 124,
+      "speaker": "Speaker_A",
+      "start_time": "11:49",
+      "end_time": "11:50",
+      "text": "Yeah, yeah.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 125,
+      "speaker": "Speaker_B",
+      "start_time": "11:50",
+      "end_time": "12:07",
+      "text": "I since this is the sort of the whole technology type thing, um you were saying in the market research that people like kind of interesting gadgets and um whether the the sample sensor and the sample speaker, voice recognition would be sort of a worthwhile thing to have and then have the batteries or whether they would prefer not",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 126,
+      "speaker": "Speaker_B",
+      "start_time": "12:10",
+      "end_time": "12:19",
+      "text": "You know what I mean? The problem was the batteries running out and losing the losing the remote. So you've got to decide which of those is more important to them.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 127,
+      "speaker": "Speaker_A",
+      "start_time": "12:19",
+      "end_time": "12:25",
+      "text": "Well, which do you think or which do we think is the more important of the options?",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 128,
+      "speaker": "Speaker_A",
+      "start_time": "12:25",
+      "end_time": "12:30",
+      "text": "In a sense at the moment, we've got a total which we need to reduce down by 1.2.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 129,
+      "speaker": "Speaker_A",
+      "start_time": "12:30",
+      "end_time": "12:43",
+      "text": "At least. Remember that was a minimum requirement. The other option if we're planning on just going for something cheap and cheerful would be to um make it and originally we were going to make it a simple product.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 130,
+      "speaker": "Speaker_B",
+      "start_time": "12:43",
+      "end_time": "12:52",
+      "text": "Shall we Shall we evaluate the prototype as we've got it now first and then sort of make decisions about what needs to be changed after? Mhm.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 131,
+      "speaker": "Speaker_A",
+      "start_time": "12:52",
+      "end_time": "12:53",
+      "text": "Makes sense.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 132,
+      "speaker": "Speaker_B",
+      "start_time": "12:54",
+      "end_time": "12:57",
+      "text": "Right. Um I have a little thing.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 133,
+      "speaker": "Speaker_B",
+      "start_time": "12:58",
+      "end_time": "13:03",
+      "text": "So we've got a note of it's 13.7, isn't it with everything we want on.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 134,
+      "speaker": "Speaker_A",
+      "start_time": "13:04",
+      "end_time": "13:04",
+      "text": "Mhm.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 135,
+      "speaker": "Speaker_A",
+      "start_time": "13:10",
+      "end_time": "13:14",
+      "text": "Sorry, do you want the back up? Just a presentation to",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 136,
+      "speaker": "Speaker_A",
+      "start_time": "13:14",
+      "end_time": "13:15",
+      "text": "Right.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 137,
+      "speaker": "Speaker_B",
+      "start_time": "13:15",
+      "end_time": "13:16",
+      "text": "do",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 138,
+      "speaker": "Speaker_C",
+      "start_time": "13:19",
+      "end_time": "13:26",
+      "text": "I don't think uh the uh voice recognition thing would be more impressive than the fact that it's got no battery.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 139,
+      "speaker": "Speaker_A",
+      "start_time": "13:27",
+      "end_time": "13:33",
+      "text": "Okay, but remember the main the only reason we were planning on having the voice recognition was so that they could find the remote if it got lost.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 140,
+      "speaker": "Speaker_B",
+      "start_time": "13:34",
+      "end_time": "13:34",
+      "text": "Mhm.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 141,
+      "speaker": "Speaker_B",
+      "start_time": "13:36",
+      "end_time": "13:42",
+      "text": "Right. Okay. Um this is about the evaluation criteria that we use for the the prototype we've got here.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 142,
+      "speaker": "Speaker_B",
+      "start_time": "13:43",
+      "end_time": "13:51",
+      "text": "And so the method is that the design team makes a prototype and we evaluate the prototype against some criteria that we've formulated.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 143,
+      "speaker": "Speaker_B",
+      "start_time": "13:52",
+      "end_time": "13:58",
+      "text": "And those ones are going to be in response to sort of market research and also finance, I guess.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 144,
+      "speaker": "Speaker_B",
+      "start_time": "13:59",
+      "end_time": "14:07",
+      "text": "And we do that on a scale from sort of true being one and false being seven. So if it's neither true nor false, then that's four.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 145,
+      "speaker": "Speaker_B",
+      "start_time": "14:15",
+      "end_time": "14:23",
+      "text": "So I've got a set of criteria just based on the marketing that we need to add in a financial one as well at the end.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 146,
+      "speaker": "Speaker_B",
+      "start_time": "14:23",
+      "end_time": "14:29",
+      "text": "Um so we have to say whether it's true or false that the product looks and feels fancy.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 147,
+      "speaker": "Speaker_B",
+      "start_time": "14:30",
+      "end_time": "14:37",
+      "text": "Um whether the product demonstrates technical innovation, whether it's easy to use,",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 148,
+      "speaker": "Speaker_B",
+      "start_time": "14:38",
+      "end_time": "14:45",
+      "text": "whether it's incorporating sort of the fashion elements to attract the buyer, and whether it's a sort of recognizable real reaction product.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 149,
+      "speaker": "Speaker_B",
+      "start_time": "14:46",
+      "end_time": "14:50",
+      "text": "And I have to go up onto the whiteboard and do this apparently. So",
+      "emotion": "satisfied",
+      "confidence": 0.7
+    },
+    {
+      "id": 150,
+      "speaker": "Speaker_B",
+      "start_time": "15:03",
+      "end_time": "15:07",
+      "text": "So the first one is, um does the product look and feel fancy?",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 151,
+      "speaker": "Speaker_A",
+      "start_time": "15:18",
+      "end_time": "15:24",
+      "text": "Okay, well we have a single curve which was had maybe like the feel of the product is quite good.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 152,
+      "speaker": "Speaker_B",
+      "start_time": "15:24",
+      "end_time": "15:25",
+      "text": "Yeah.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 153,
+      "speaker": "Speaker_A",
+      "start_time": "15:25",
+      "end_time": "15:26",
+      "text": "So",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 154,
+      "speaker": "Speaker_B",
+      "start_time": "15:26",
+      "end_time": "15:26",
+      "text": "Okay.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 155,
+      "speaker": "Speaker_A",
+      "start_time": "15:27",
+      "end_time": "15:35",
+      "text": "Um and we have the rubber kind of spongy feel which was in at the time. Yeah. Um I suppose that becomes a fancy.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 156,
+      "speaker": "Speaker_C",
+      "start_time": "15:37",
+      "end_time": "15:40",
+      "text": "Yeah, I'd maybe give it a uh two.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 157,
+      "speaker": "Speaker_B",
+      "start_time": "15:42",
+      "end_time": "15:44",
+      "text": "I think what is one false or is one true? I forgot.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 158,
+      "speaker": "Speaker_A",
+      "start_time": "15:44",
+      "end_time": "15:45",
+      "text": "One's true.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 159,
+      "speaker": "Speaker_B",
+      "start_time": "15:46",
+      "end_time": "15:48",
+      "text": "One's true and okay, seven's false.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 160,
+      "speaker": "Speaker_A",
+      "start_time": "15:48",
+      "end_time": "15:49",
+      "text": "Four's neutral.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 161,
+      "speaker": "Speaker_B",
+      "start_time": "15:49",
+      "end_time": "15:50",
+      "text": "Four's neutral. Okay.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 162,
+      "speaker": "Speaker_A",
+      "start_time": "15:51",
+      "end_time": "15:52",
+      "text": "So maybe about maybe a two.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 163,
+      "speaker": "Speaker_C",
+      "start_time": "15:53",
+      "end_time": "16:02",
+      "text": "Yeah, because we haven't got the double curve, so we can't like go for one. But it's very close. We've got almost everything we can.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 164,
+      "speaker": "Speaker_B",
+      "start_time": "16:02",
+      "end_time": "16:02",
+      "text": "Okay.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 165,
+      "speaker": "Speaker_B",
+      "start_time": "16:17",
+      "end_time": "16:22",
+      "text": "So I say about two for fancy. Okay. Yeah, we're not not maybe nearer three.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 166,
+      "speaker": "Speaker_B",
+      "start_time": "16:24",
+      "end_time": "16:26",
+      "text": "Okay. Well we do have the double. Um",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 167,
+      "speaker": "Speaker_A",
+      "start_time": "16:27",
+      "end_time": "16:41",
+      "text": "Well, it's just that in a sense, I mean, remember that when you look down, we've got solar power, we've got various other things you could have and we're not going for these options. This is just this is just for like the look. Does it sort of look fancy rather than functional, so",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 168,
+      "speaker": "Speaker_B",
+      "start_time": "16:41",
+      "end_time": "16:42",
+      "text": "Mhm.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 169,
+      "speaker": "Speaker_C",
+      "start_time": "16:43",
+      "end_time": "16:46",
+      "text": "Yeah, I suppose that might be in the technical innovation bit.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 170,
+      "speaker": "Speaker_B",
+      "start_time": "16:46",
+      "end_time": "16:47",
+      "text": "Yeah.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 171,
+      "speaker": "Speaker_B",
+      "start_time": "16:47",
+      "end_time": "16:50",
+      "text": "So that so should we go for a two on that?",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 172,
+      "speaker": "Speaker_A",
+      "start_time": "16:50",
+      "end_time": "16:51",
+      "text": "Okay.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 173,
+      "speaker": "Speaker_B",
+      "start_time": "16:51",
+      "end_time": "16:52",
+      "text": "Okay.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 174,
+      "speaker": "Speaker_B",
+      "start_time": "16:52",
+      "end_time": "16:57",
+      "text": "And I mean, how much does the product demonstrate technical innovation?",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 175,
+      "speaker": "Speaker_A",
+      "start_time": "16:57",
+      "end_time": "17:09",
+      "text": "Um as we were deciding between the kinetic power or um the speech recognition. And if we had either of those for our budget, they both show a reasonable amount of speech recognition.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 176,
+      "speaker": "Speaker_B",
+      "start_time": "17:10",
+      "end_time": "17:10",
+      "text": "Okay.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 177,
+      "speaker": "Speaker_B",
+      "start_time": "17:11",
+      "end_time": "17:18",
+      "text": "So, what about the the prototype as it is? We've got we've got the speech recognition on it, haven't we? But not the kinetic.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 178,
+      "speaker": "Speaker_A",
+      "start_time": "17:19",
+      "end_time": "17:20",
+      "text": "But not the kinetic power.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 179,
+      "speaker": "Speaker_B",
+      "start_time": "17:21",
+      "end_time": "17:25",
+      "text": "No, because you can't afford that. We took that out. Yeah, we can't afford both.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 180,
+      "speaker": "Speaker_A",
+      "start_time": "17:27",
+      "end_time": "17:28",
+      "text": "Didn't we? Oh.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 181,
+      "speaker": "Speaker_B",
+      "start_time": "17:29",
+      "end_time": "17:38",
+      "text": "So it doesn't it's pretty the prototype as it is isn't sort of um fulfilling the maybe about neutral because it's got something but it hasn't got",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 182,
+      "speaker": "Speaker_A",
+      "start_time": "17:38",
+      "end_time": "17:39",
+      "text": "Okay.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 183,
+      "speaker": "Speaker_B",
+      "start_time": "17:40",
+      "end_time": "17:40",
+      "text": "Yeah.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 184,
+      "speaker": "Speaker_A",
+      "start_time": "17:41",
+      "end_time": "17:58",
+      "text": "Well, wait a minute. In 13.7, we do have kinetic. The problem is we have to reduce down from there to get it down to 12.5. And one way of doing that would be to take out the kinetic. So it's very much dependent on what you do with your options.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 185,
+      "speaker": "Speaker_A",
+      "start_time": "18:00",
+      "end_time": "18:11",
+      "text": "And if you're definitely going for the sample sensor and sample speaker, then because that the other functions we've got in are are more at the",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 186,
+      "speaker": "Speaker_A",
+      "start_time": "18:12",
+      "end_time": "18:25",
+      "text": "the special material, the rubber wood titanium, etc. If you go for that, that's at the high end because that's 0.6 whereas down at just special color is is 0.2.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 187,
+      "speaker": "Speaker_A",
+      "start_time": "18:25",
+      "end_time": "18:37",
+      "text": "Now you're trying to lose 1.2. So it seems to me that if you're going for the sample sensor speaker, you're basically then having to go for the cheaper options on everything else.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 188,
+      "speaker": "Speaker_A",
+      "start_time": "18:39",
+      "end_time": "18:56",
+      "text": "And and the simple way to do it would be to have a battery, to have your uh sample sensor speaker, and then you're looking to uh take out uh 0.2 which would be come from the button supplements category.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 189,
+      "speaker": "Speaker_B",
+      "start_time": "18:56",
+      "end_time": "19:03",
+      "text": "I'm just going to check my email. I'm just going to check exactly what it said in the email for um the product.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 190,
+      "speaker": "Speaker_C",
+      "start_time": "19:04",
+      "end_time": "19:07",
+      "text": "How much of a difference would it make if we made the case in plastic?",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 191,
+      "speaker": "Speaker_C",
+      "start_time": "19:11",
+      "end_time": "19:17",
+      "text": "Because we did say that we don't want to follow the fashion too much. If the buttons are rubber, that might be spongy enough and then we might stand",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 192,
+      "speaker": "Speaker_A",
+      "start_time": "19:17",
+      "end_time": "19:23",
+      "text": "Um interface type, um well, plastic rather than rubber.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 193,
+      "speaker": "Speaker_B",
+      "start_time": "19:23",
+      "end_time": "19:24",
+      "text": "Okay.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 194,
+      "speaker": "Speaker_A",
+      "start_time": "19:24",
+      "end_time": "19:34",
+      "text": "That that that would make the significant difference. You could either you could have it if you have it in plastic rather than rubber, then that would uh enable you to get",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 195,
+      "speaker": "Speaker_A",
+      "start_time": "19:35",
+      "end_time": "19:50",
+      "text": "you could keep kinetic then, you could keep your sample sensor and you'll be looking to take out 0.2. So you could uh fiddle that down your special form at the bottom or your special color at the bottom and that would enable you to to do it.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 196,
+      "speaker": "Speaker_B",
+      "start_time": "19:50",
+      "end_time": "19:51",
+      "text": "Okay.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 197,
+      "speaker": "Speaker_A",
+      "start_time": "19:51",
+      "end_time": "20:00",
+      "text": "So so if we make it slightly more fancy, then we lose points on innovation. If we make it more innovative, then we lose points on being fancy. So But I just read the email again and it sort of says",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 198,
+      "speaker": "Speaker_B",
+      "start_time": "20:01",
+      "end_time": "20:14",
+      "text": "it's evaluate the design sort of as it is, I think. So I think we need to think about finance after we've sort of evaluated that design. I don't know whether we've done it in the wrong order or something or",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 199,
+      "speaker": "Speaker_A",
+      "start_time": "20:14",
+      "end_time": "20:15",
+      "text": "Well, okay, but",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 200,
+      "speaker": "Speaker_C",
+      "start_time": "20:18",
+      "end_time": "20:20",
+      "text": "Well, I suppose it's rubber as it is, isn't it?",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 201,
+      "speaker": "Speaker_A",
+      "start_time": "20:20",
+      "end_time": "20:21",
+      "text": "It's rubber as it is, yes.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 202,
+      "speaker": "Speaker_B",
+      "start_time": "20:21",
+      "end_time": "20:25",
+      "text": "So, I mean, does this need to go up a bit or something? Because",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 203,
+      "speaker": "Speaker_B",
+      "start_time": "20:25",
+      "end_time": "20:29",
+      "text": "we've got both the both the um",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 204,
+      "speaker": "Speaker_A",
+      "start_time": "20:31",
+      "end_time": "20:41",
+      "text": "We've got we've got 13.7 and we've got it in at the moment and if and basically we're going to reduce down from that, but the current one you'd say would be fancy would be two. Yeah.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 205,
+      "speaker": "Speaker_B",
+      "start_time": "20:43",
+      "end_time": "20:51",
+      "text": "And for for innovation, so we've got the speech the speech thing and I would have said about a two as well.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 206,
+      "speaker": "Speaker_A",
+      "start_time": "20:52",
+      "end_time": "20:53",
+      "text": "Right, a two.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 207,
+      "speaker": "Speaker_C",
+      "start_time": "20:53",
+      "end_time": "20:54",
+      "text": "Yeah, two or three.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 208,
+      "speaker": "Speaker_A",
+      "start_time": "20:55",
+      "end_time": "20:55",
+      "text": "I'm happy with a two.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 209,
+      "speaker": "Speaker_B",
+      "start_time": "20:56",
+      "end_time": "20:57",
+      "text": "Okay, two.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 210,
+      "speaker": "Speaker_B",
+      "start_time": "20:57",
+      "end_time": "21:01",
+      "text": "And the next one is, I'll have to get it back up now.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 211,
+      "speaker": "Speaker_A",
+      "start_time": "21:02",
+      "end_time": "21:08",
+      "text": "The next one, well, I can just sing about easy to use. I would have said yes, I would have go for a one on that at this point in time.",
+      "emotion": "enthusiastic",
+      "confidence": 0.9
+    },
+    {
+      "id": 212,
+      "speaker": "Speaker_C",
+      "start_time": "21:10",
+      "end_time": "21:10",
+      "text": "Yeah.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 213,
+      "speaker": "Speaker_C",
+      "start_time": "21:12",
+      "end_time": "21:13",
+      "text": "Yeah, I would say so as well.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 214,
+      "speaker": "Speaker_A",
+      "start_time": "21:17",
+      "end_time": "21:21",
+      "text": "and incorporates elements of fashion to attract buyer. Well,",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 215,
+      "speaker": "Speaker_A",
+      "start_time": "21:22",
+      "end_time": "21:23",
+      "text": "it certainly has some.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 216,
+      "speaker": "Speaker_C",
+      "start_time": "21:24",
+      "end_time": "21:26",
+      "text": "Yeah, it's got the cherry and the sponginess.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 217,
+      "speaker": "Speaker_A",
+      "start_time": "21:27",
+      "end_time": "21:27",
+      "text": "Yeah.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 218,
+      "speaker": "Speaker_B",
+      "start_time": "21:28",
+      "end_time": "21:29",
+      "text": "Say about a three maybe.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 219,
+      "speaker": "Speaker_A",
+      "start_time": "21:31",
+      "end_time": "21:31",
+      "text": "I don't know.",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 220,
+      "speaker": "Speaker_C",
+      "start_time": "21:31",
+      "end_time": "21:32",
+      "text": "Maybe a two.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 221,
+      "speaker": "Speaker_A",
+      "start_time": "21:33",
+      "end_time": "21:39",
+      "text": "Yeah, it's doing quite well. I mean we're going to have to lose some of these, but at the moment as it stands, it's Yeah, I would have said two would seem reasonable.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 222,
+      "speaker": "Speaker_A",
+      "start_time": "21:42",
+      "end_time": "21:55",
+      "text": "The product is a recognizable real reaction product. This is in the sense we're using all of its all of its products, all of its buttons and it's got a fairly big label on the bottom saying Yeah, and it's a bit rough that comes from",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 223,
+      "speaker": "Speaker_B",
+      "start_time": "21:58",
+      "end_time": "22:07",
+      "text": "So this is about sort of the corporate image of like new sort of sleek technology and all that sort of thing as well as having the logo on and all that. So sort of",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 224,
+      "speaker": "Speaker_A",
+      "start_time": "22:11",
+      "end_time": "22:17",
+      "text": "Is it sort of a recognizable product? Does it fit in with our other products which are sort of coffee makers and spacecraft?",
+      "emotion": "satisfied",
+      "confidence": 0.9
+    },
+    {
+      "id": 225,
+      "speaker": "Speaker_C",
+      "start_time": "22:21",
+      "end_time": "22:25",
+      "text": "Well, it's got the same um speech feature as the coffee machine.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 226,
+      "speaker": "Speaker_A",
+      "start_time": "22:25",
+      "end_time": "22:32",
+      "text": "I suppose kind of the spongy rubberiness is maybe a bit more kind of comfortable than kind of the sleek and new age. Um",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 227,
+      "speaker": "Speaker_A",
+      "start_time": "22:34",
+      "end_time": "22:35",
+      "text": "depends which way you look at it.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 228,
+      "speaker": "Speaker_B",
+      "start_time": "22:35",
+      "end_time": "22:36",
+      "text": "Okay.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 229,
+      "speaker": "Speaker_B",
+      "start_time": "22:36",
+      "end_time": "22:42",
+      "text": "So are we going for a two, three? I don't know. Two or three.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 230,
+      "speaker": "Speaker_C",
+      "start_time": "22:42",
+      "end_time": "22:49",
+      "text": "Well, the logo would be more um recognizable on the actual thing. It's just that the pen wouldn't really write on that paper.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 231,
+      "speaker": "Speaker_A",
+      "start_time": "22:49",
+      "end_time": "22:51",
+      "text": "Sure.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 232,
+      "speaker": "Speaker_C",
+      "start_time": "22:50",
+      "end_time": "22:58",
+      "text": "But um Yeah. I think the logo would definitely be recognizable and it does have attributes that other products do.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 233,
+      "speaker": "Speaker_A",
+      "start_time": "22:58",
+      "end_time": "23:00",
+      "text": "Two. I'd go for it.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 234,
+      "speaker": "Speaker_B",
+      "start_time": "23:00",
+      "end_time": "23:01",
+      "text": "Right. Okay.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 235,
+      "speaker": "Speaker_A",
+      "start_time": "23:01",
+      "end_time": "23:02",
+      "text": "Two or three.",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 236,
+      "speaker": "Speaker_B",
+      "start_time": "23:05",
+      "end_time": "23:05",
+      "text": "Two. Right.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 237,
+      "speaker": "Speaker_B",
+      "start_time": "23:05",
+      "end_time": "23:07",
+      "text": "Come on. That's that decided.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 238,
+      "speaker": "Speaker_A",
+      "start_time": "23:08",
+      "end_time": "23:15",
+      "text": "Right. So we're now on to changing it to get it to fit in with the budget requirements.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 239,
+      "speaker": "Speaker_B",
+      "start_time": "23:16",
+      "end_time": "23:17",
+      "text": "And then Yeah.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 240,
+      "speaker": "Speaker_C",
+      "start_time": "23:18",
+      "end_time": "23:22",
+      "text": "What does what do all them numbers mean then? Do we add them up and rate ourselves or anything?",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 241,
+      "speaker": "Speaker_B",
+      "start_time": "23:22",
+      "end_time": "23:28",
+      "text": "Yeah, we yeah, I think we sort of add them up. So sort of an average is going to be, I'm just going to do this. About a two.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 242,
+      "speaker": "Speaker_A",
+      "start_time": "23:29",
+      "end_time": "23:33",
+      "text": "Two. 1.8, isn't it or something? I think anyway.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 243,
+      "speaker": "Speaker_B",
+      "start_time": "23:35",
+      "end_time": "23:36",
+      "text": "So yeah, pretty close to a two.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 244,
+      "speaker": "Speaker_A",
+      "start_time": "23:37",
+      "end_time": "23:45",
+      "text": "Yeah, so it's So I mean it's pretty good at the moment, but it's going to get worse, isn't it? But we could try and make sure it doesn't get too too too bad, yeah. So we need to get definite",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 245,
+      "speaker": "Speaker_B",
+      "start_time": "23:46",
+      "end_time": "23:51",
+      "text": "So it was 13.7 was the definite price for all the features we've said it has. Yes.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 246,
+      "speaker": "Speaker_A",
+      "start_time": "23:51",
+      "end_time": "23:52",
+      "text": "Yeah.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 247,
+      "speaker": "Speaker_B",
+      "start_time": "23:52",
+      "end_time": "23:53",
+      "text": "Okay, so",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 248,
+      "speaker": "Speaker_A",
+      "start_time": "23:53",
+      "end_time": "24:01",
+      "text": "we need to Well, you can lose 1.2 and still meet the requirements.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 249,
+      "speaker": "Speaker_B",
+      "start_time": "24:01",
+      "end_time": "24:04",
+      "text": "Do you want to plug it into your so we can get up the Okay.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 250,
+      "speaker": "Speaker_A",
+      "start_time": "24:04",
+      "end_time": "24:05",
+      "text": "I'll put it back on.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 251,
+      "speaker": "Speaker_B",
+      "start_time": "24:05",
+      "end_time": "24:07",
+      "text": "I guess this is the last stage once we've sorted out the finance, it's perfect.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 252,
+      "speaker": "Speaker_A",
+      "start_time": "24:08",
+      "end_time": "24:10",
+      "text": "Um I'm not sure.",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 253,
+      "speaker": "Speaker_C",
+      "start_time": "24:10",
+      "end_time": "24:12",
+      "text": "So we'll probably have to re-rate it.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 254,
+      "speaker": "Speaker_A",
+      "start_time": "24:13",
+      "end_time": "24:14",
+      "text": "Yes, I would have thought so.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 255,
+      "speaker": "Speaker_B",
+      "start_time": "24:14",
+      "end_time": "24:18",
+      "text": "Yeah, yeah, we'll make the adjustments and then see how it rates again.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 256,
+      "speaker": "Speaker_A",
+      "start_time": "24:19",
+      "end_time": "24:23",
+      "text": "Okay, so what was it? Control F8, wasn't it?",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 257,
+      "speaker": "Speaker_B",
+      "start_time": "24:23",
+      "end_time": "24:24",
+      "text": "It's come on already.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 258,
+      "speaker": "Speaker_A",
+      "start_time": "24:24",
+      "end_time": "24:25",
+      "text": "Oh. Oh, how kind.",
+      "emotion": "satisfied",
+      "confidence": 0.9
+    },
+    {
+      "id": 259,
+      "speaker": "Speaker_A",
+      "start_time": "24:28",
+      "end_time": "24:36",
+      "text": "Right. Okay. So you can see there that the if you want to keep kinetic, right, you've got a choice there of going down to battery which would save you one.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 260,
+      "speaker": "Speaker_A",
+      "start_time": "24:38",
+      "end_time": "24:50",
+      "text": "You've got the sample sensor and and sample speaker, which is your big item. Actually, we just have a plastic case then we lose two.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 261,
+      "speaker": "Speaker_B",
+      "start_time": "24:50",
+      "end_time": "24:51",
+      "text": "That's right.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 262,
+      "speaker": "Speaker_A",
+      "start_time": "24:51",
+      "end_time": "24:57",
+      "text": "Which gets us um which gets you within the budget range. Yes.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 263,
+      "speaker": "Speaker_C",
+      "start_time": "24:58",
+      "end_time": "25:02",
+      "text": "Yeah, I think that would be fine because that was just a trend and we do have rubber buttons anyway.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 264,
+      "speaker": "Speaker_A",
+      "start_time": "25:02",
+      "end_time": "25:07",
+      "text": "So that's 11.7 and then we could make sure we definitely had all the button supplements. All right. Different colors, yeah.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 265,
+      "speaker": "Speaker_B",
+      "start_time": "25:08",
+      "end_time": "25:19",
+      "text": "Yeah, I was thinking that because maybe maybe the sort of rubber case is a bit less in sort of the corporate identity than the sort of, you know, sleeker plastic case.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 266,
+      "speaker": "Speaker_A",
+      "start_time": "25:19",
+      "end_time": "25:20",
+      "text": "Mhm.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 267,
+      "speaker": "Speaker_C",
+      "start_time": "25:20",
+      "end_time": "25:21",
+      "text": "Yeah.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 268,
+      "speaker": "Speaker_A",
+      "start_time": "25:22",
+      "end_time": "25:27",
+      "text": "Okay. Now we'll allow us to have all the technical innovations. So we'd lose a little bit on the maybe lose a little bit on the fashion",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 269,
+      "speaker": "Speaker_B",
+      "start_time": "25:27",
+      "end_time": "25:31",
+      "text": "Yeah, but Yep. And then yeah, that's that's within the budget.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 270,
+      "speaker": "Speaker_A",
+      "start_time": "25:31",
+      "end_time": "25:31",
+      "text": "Mhm.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 271,
+      "speaker": "Speaker_A",
+      "start_time": "25:37",
+      "end_time": "25:46",
+      "text": "Do we actually have do we just have one special only these special forms down here? Well, there was debate as to how you would count them.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 272,
+      "speaker": "Speaker_A",
+      "start_time": "25:47",
+      "end_time": "25:53",
+      "text": "You've got special color. Well, originally I was assuming we had the red apple and therefore that was the special color. Yeah, I think we should just imagine white buttons.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 273,
+      "speaker": "Speaker_B",
+      "start_time": "25:55",
+      "end_time": "26:06",
+      "text": "And we we've got we've got enough for another Yeah. We've got 0.8 left, so we've got enough for Well, we've got special form. Now that would be one button and the question was, was that all buttons or was that just one button?",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 274,
+      "speaker": "Speaker_A",
+      "start_time": "26:06",
+      "end_time": "26:11",
+      "text": "Because our plan really was to have one button only with the special Yeah.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 275,
+      "speaker": "Speaker_A",
+      "start_time": "26:11",
+      "end_time": "26:20",
+      "text": "So, so no matter how you look at that, that would be the same. The other thing would then be special material rubber wood titanium. I think maybe the special color we've got a three now just because um because of the volume buttons are different. I guess we'd have",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 276,
+      "speaker": "Speaker_B",
+      "start_time": "26:22",
+      "end_time": "26:25",
+      "text": "the ones which are blue at the moment would just be So special color you want three in there.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 277,
+      "speaker": "Speaker_A",
+      "start_time": "26:26",
+      "end_time": "26:29",
+      "text": "Yeah, which I think we should be yeah, that's will be fine for the for the price.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 278,
+      "speaker": "Speaker_B",
+      "start_time": "26:29",
+      "end_time": "26:38",
+      "text": "Okay. I think you you just need two for special color because it's just two supplements, you know, one original color and then sort of two supplements, I think maybe.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 279,
+      "speaker": "Speaker_A",
+      "start_time": "26:39",
+      "end_time": "26:40",
+      "text": "That makes sense.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 280,
+      "speaker": "Speaker_B",
+      "start_time": "26:40",
+      "end_time": "26:42",
+      "text": "Okay. So we only we only need two for that.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 281,
+      "speaker": "Speaker_A",
+      "start_time": "26:43",
+      "end_time": "26:49",
+      "text": "Okay. Because I mean these these are molded, the one color is going to be molded out of a piece of of rubber. Okay.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 282,
+      "speaker": "Speaker_B",
+      "start_time": "26:49",
+      "end_time": "26:50",
+      "text": "Yeah, I'd agree with that, I think.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 283,
+      "speaker": "Speaker_A",
+      "start_time": "26:51",
+      "end_time": "26:53",
+      "text": "So special colors two.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 284,
+      "speaker": "Speaker_A",
+      "start_time": "26:54",
+      "end_time": "27:07",
+      "text": "We've got special form is the one apple, the rest are all standard, although you could argue that should maybe be you were making these buttons down the bottom, I was presuming bigger than the other ones or were you? Was that the idea?",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 285,
+      "speaker": "Speaker_C",
+      "start_time": "27:09",
+      "end_time": "27:12",
+      "text": "Yeah, the volume ones should stand out. Maybe that'd be a second supplement.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 286,
+      "speaker": "Speaker_A",
+      "start_time": "27:13",
+      "end_time": "27:15",
+      "text": "But there's a a second special form.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 287,
+      "speaker": "Speaker_B",
+      "start_time": "27:16",
+      "end_time": "27:19",
+      "text": "Uh-huh. I would have thought that's probably about right.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 288,
+      "speaker": "Speaker_A",
+      "start_time": "27:19",
+      "end_time": "27:20",
+      "text": "I've got",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 289,
+      "speaker": "Speaker_B",
+      "start_time": "27:20",
+      "end_time": "27:21",
+      "text": "Well,",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 290,
+      "speaker": "Speaker_A",
+      "start_time": "27:28",
+      "end_time": "27:30",
+      "text": "So I think that should still be okay.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 291,
+      "speaker": "Speaker_B",
+      "start_time": "27:30",
+      "end_time": "27:35",
+      "text": "Right. 12.3, so we're still we're in budget on that. Yep.",
+      "emotion": "satisfied",
+      "confidence": 0.9
+    },
+    {
+      "id": 292,
+      "speaker": "Speaker_A",
+      "start_time": "27:35",
+      "end_time": "27:36",
+      "text": "That makes sense.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 293,
+      "speaker": "Speaker_B",
+      "start_time": "27:39",
+      "end_time": "27:46",
+      "text": "So we'd say we've lost a little bit on the fashion and lost a bit on the fancy kind of but generally speaking we've kept the other attributes to the",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 294,
+      "speaker": "Speaker_A",
+      "start_time": "27:46",
+      "end_time": "27:47",
+      "text": "I would have said so.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 295,
+      "speaker": "Speaker_A",
+      "start_time": "27:47",
+      "end_time": "27:53",
+      "text": "Yeah. So you maybe put fashion fan uh fashion at three rather than two.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 296,
+      "speaker": "Speaker_B",
+      "start_time": "27:53",
+      "end_time": "27:54",
+      "text": "So should we do it?",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 297,
+      "speaker": "Speaker_A",
+      "start_time": "27:54",
+      "end_time": "27:55",
+      "text": "Two.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 298,
+      "speaker": "Speaker_B",
+      "start_time": "27:55",
+      "end_time": "28:02",
+      "text": "Well, I mean it definitely fits the the real product. What was the what's the company name?",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 299,
+      "speaker": "Speaker_A",
+      "start_time": "28:04",
+      "end_time": "28:06",
+      "text": "Real reaction product. I'm not quite sure what does that mean?",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 300,
+      "speaker": "Speaker_B",
+      "start_time": "28:08",
+      "end_time": "28:21",
+      "text": "It still seems to definitely fit that because that's like if that's the new age kind of um innovative company, then um having the kinetic feature and the voice recognition is quite high. So it's quite high.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 301,
+      "speaker": "Speaker_A",
+      "start_time": "28:22",
+      "end_time": "28:31",
+      "text": "So so if we if we've put in for another special form on a button, then maybe they could be a different shape, like we've got a cherry one.",
+      "emotion": "enthusiastic",
+      "confidence": 0.7
+    },
+    {
+      "id": 302,
+      "speaker": "Speaker_A",
+      "start_time": "28:32",
+      "end_time": "28:36",
+      "text": "Maybe the other ones could be something else shaped. I don't know.",
+      "emotion": "enthusiastic",
+      "confidence": 0.7
+    },
+    {
+      "id": 303,
+      "speaker": "Speaker_B",
+      "start_time": "28:37",
+      "end_time": "28:46",
+      "text": "That would be possible. Seen as seen as it's cheaper to make them a different as soon as we've got, you know, we've made it a special form, so",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 304,
+      "speaker": "Speaker_A",
+      "start_time": "28:47",
+      "end_time": "28:55",
+      "text": "And that would sort of maybe keep us close on the sort of the fashion type one and it would sort of, you know, keep it quite fancy as well. I don't know.",
+      "emotion": "enthusiastic",
+      "confidence": 0.7
+    },
+    {
+      "id": 305,
+      "speaker": "Speaker_B",
+      "start_time": "28:56",
+      "end_time": "29:06",
+      "text": "Well, you could argue you might do it once a year, you would change because at the moment you're making it a red apple. So next year you could make next year's model the same but have it as a",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 306,
+      "speaker": "Speaker_A",
+      "start_time": "29:08",
+      "end_time": "29:12",
+      "text": "Yeah, whatever a lemon, yeah, a lemon lemon or something.",
+      "emotion": "satisfied",
+      "confidence": 0.9
+    },
+    {
+      "id": 307,
+      "speaker": "Speaker_B",
+      "start_time": "29:13",
+      "end_time": "29:15",
+      "text": "I mean the volume buttons could be lemons or something maybe.",
+      "emotion": "satisfied",
+      "confidence": 0.8
+    },
+    {
+      "id": 308,
+      "speaker": "Speaker_A",
+      "start_time": "29:15",
+      "end_time": "29:16",
+      "text": "Well,",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 309,
+      "speaker": "Speaker_B",
+      "start_time": "29:17",
+      "end_time": "29:18",
+      "text": "Okay.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 310,
+      "speaker": "Speaker_A",
+      "start_time": "29:19",
+      "end_time": "29:33",
+      "text": "So what have we what have we got rid of? We got rid of the plastic. Yeah, we've the main thing we've changed really is the casing, isn't it? I think we've saved quite a bit because we've just got the push button interface which is by far the cheapest.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 311,
+      "speaker": "Speaker_B",
+      "start_time": "29:34",
+      "end_time": "29:34",
+      "text": "Yeah.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 312,
+      "speaker": "Speaker_A",
+      "start_time": "29:37",
+      "end_time": "29:42",
+      "text": "So maybe in the sense not having that, maybe we've lost some maybe lost something on the innovation side.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 313,
+      "speaker": "Speaker_B",
+      "start_time": "29:43",
+      "end_time": "29:44",
+      "text": "I don't know.",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 314,
+      "speaker": "Speaker_A",
+      "start_time": "29:45",
+      "end_time": "29:48",
+      "text": "And just because that is like the most standard type of button.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 315,
+      "speaker": "Speaker_B",
+      "start_time": "29:49",
+      "end_time": "29:59",
+      "text": "So I mean we've got we've got rid of the rubber case, but we've now we're now sort of got an extra form and an extra color for the buttons. So maybe in terms of sort of",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 316,
+      "speaker": "Speaker_A",
+      "start_time": "30:00",
+      "end_time": "30:07",
+      "text": "fanciness and fashionability were pretty much the same. maybe. So maybe you could maybe put two again on them.",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 317,
+      "speaker": "Speaker_A",
+      "start_time": "30:09",
+      "end_time": "30:11",
+      "text": "And anything else has stayed pretty much the same so.",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 318,
+      "speaker": "Speaker_B",
+      "start_time": "30:12",
+      "end_time": "30:13",
+      "text": "Well, ease has certainly stayed.",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 319,
+      "speaker": "Speaker_A",
+      "start_time": "30:13",
+      "end_time": "30:18",
+      "text": "Yeah, because if anything the special form makes it slightly easier to Yeah. to use.",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 320,
+      "speaker": "Speaker_B",
+      "start_time": "30:18",
+      "end_time": "30:20",
+      "text": "And what about the sort of innovation?",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 321,
+      "speaker": "Speaker_A",
+      "start_time": "30:20",
+      "end_time": "30:22",
+      "text": "I think well we've still got the kinetic energy.",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 322,
+      "speaker": "Speaker_B",
+      "start_time": "30:23",
+      "end_time": "30:25",
+      "text": "Okay. And the speech feature.",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 323,
+      "speaker": "Speaker_A",
+      "start_time": "30:25",
+      "end_time": "30:25",
+      "text": "Yeah, the speech feature.",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 324,
+      "speaker": "Speaker_B",
+      "start_time": "30:26",
+      "end_time": "30:29",
+      "text": "And then the corporate identity.",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 325,
+      "speaker": "Speaker_A",
+      "start_time": "30:29",
+      "end_time": "30:35",
+      "text": "I think we've kind of just about the same. We've maybe lost I don't know, it's hard to tell how the rubber",
+      "emotion": "calm",
+      "confidence": 0.6
+    },
+    {
+      "id": 326,
+      "speaker": "Speaker_B",
+      "start_time": "30:35",
+      "end_time": "30:36",
+      "text": "How it would play out.",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 327,
+      "speaker": "Speaker_A",
+      "start_time": "30:37",
+      "end_time": "30:43",
+      "text": "Yeah. whether whether that's considered to be sort of part of the corporate identity, I don't know.",
+      "emotion": "calm",
+      "confidence": 0.6
+    },
+    {
+      "id": 328,
+      "speaker": "Speaker_A",
+      "start_time": "30:45",
+      "end_time": "30:46",
+      "text": "I mean it's maybe not.",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 329,
+      "speaker": "Speaker_A",
+      "start_time": "30:47",
+      "end_time": "30:54",
+      "text": "I think more the the features of the actual control would be more important than maybe than the Yeah. actual aesthetics. Yeah.",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 330,
+      "speaker": "Speaker_A",
+      "start_time": "30:55",
+      "end_time": "30:57",
+      "text": "But either way, I think we've made it fairly close to what",
+      "emotion": "satisfied",
+      "confidence": 0.7
+    },
+    {
+      "id": 331,
+      "speaker": "Speaker_B",
+      "start_time": "30:58",
+      "end_time": "31:00",
+      "text": "Yeah. Okay. Well, I mean",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 332,
+      "speaker": "Speaker_C",
+      "start_time": "31:00",
+      "end_time": "31:08",
+      "text": "how we could make it any more. Um apart from maybe doing the whole thing in the kind of light shade of blue, like the casing.",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 333,
+      "speaker": "Speaker_B",
+      "start_time": "31:10",
+      "end_time": "31:12",
+      "text": "But then what color would you make the R's?",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 334,
+      "speaker": "Speaker_D",
+      "start_time": "31:14",
+      "end_time": "31:18",
+      "text": "This is just the the the company logo. So maybe there's like a set design which would",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 335,
+      "speaker": "Speaker_B",
+      "start_time": "31:19",
+      "end_time": "31:29",
+      "text": "Well, but you've got the company logo on there which would effectively be a stick-on badge. So you're in a sense, you're comparing the product without the company logo and then but you've got the space for it.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 336,
+      "speaker": "Speaker_A",
+      "start_time": "31:29",
+      "end_time": "31:31",
+      "text": "Yeah. to stick it on.",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 337,
+      "speaker": "Speaker_D",
+      "start_time": "31:31",
+      "end_time": "31:34",
+      "text": "what what's the company color? Did you get told what the company color is or?",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 338,
+      "speaker": "Speaker_A",
+      "start_time": "31:34",
+      "end_time": "31:36",
+      "text": "I'm not quite sure we've established that.",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 339,
+      "speaker": "Speaker_B",
+      "start_time": "31:37",
+      "end_time": "32:04",
+      "text": "I don't think so. But but it but in the sense that as you saw with um the Windows logo badge, it doesn't really matter. There's virtually the way that you frame, you know, the Windows badge on there, it really doesn't matter what color it is. so long as our company's logo is framed in the same way as that with a like a black outline. In fact they've got black and white or black and silver.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 340,
+      "speaker": "Speaker_B",
+      "start_time": "32:05",
+      "end_time": "32:20",
+      "text": "So basically, even if you had a silver the same color of silver on your display, because you've got effectively a double edging on the on the logo, it means that it splits off what your logo is from the from the product.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 341,
+      "speaker": "Speaker_B",
+      "start_time": "32:21",
+      "end_time": "32:23",
+      "text": "And that's actually quite a sneaky way of doing it.",
+      "emotion": "satisfied",
+      "confidence": 0.7
+    },
+    {
+      "id": 342,
+      "speaker": "Speaker_A",
+      "start_time": "32:24",
+      "end_time": "32:28",
+      "text": "Because you've got sort of we've got point two to play with if you really wanted to.",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 343,
+      "speaker": "Speaker_B",
+      "start_time": "32:28",
+      "end_time": "32:30",
+      "text": "You could put in another another color.",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 344,
+      "speaker": "Speaker_B",
+      "start_time": "32:30",
+      "end_time": "32:38",
+      "text": "Well, in this one, you've actually got three colors of buttons. And we decided that the blue ones were the um the standard color.",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 345,
+      "speaker": "Speaker_A",
+      "start_time": "32:38",
+      "end_time": "32:39",
+      "text": "Okay.",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 346,
+      "speaker": "Speaker_B",
+      "start_time": "32:39",
+      "end_time": "32:51",
+      "text": "So you were talking about uh um we're assuming that all the buttons on the second panel, the hidden away panel would all be standard.",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 347,
+      "speaker": "Speaker_A",
+      "start_time": "32:51",
+      "end_time": "32:52",
+      "text": "Yeah. Yeah.",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 348,
+      "speaker": "Speaker_B",
+      "start_time": "32:53",
+      "end_time": "32:57",
+      "text": "Which may or may not be the case.",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 349,
+      "speaker": "Speaker_A",
+      "start_time": "32:57",
+      "end_time": "33:00",
+      "text": "Yeah. Should we save the point two for profitability then?",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 350,
+      "speaker": "Speaker_B",
+      "start_time": "33:00",
+      "end_time": "33:15",
+      "text": "Well, yeah, but but was there was there not a button that you were thinking of on the um on the other option, you know, on the second page as it were that you were thinking of maybe having as a different color?",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 351,
+      "speaker": "Speaker_C",
+      "start_time": "33:16",
+      "end_time": "33:18",
+      "text": "Um, I don't think there would really need to be.",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 352,
+      "speaker": "Speaker_C",
+      "start_time": "33:18",
+      "end_time": "33:21",
+      "text": "I think if they were just all small round blue buttons, it would be fine.",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 353,
+      "speaker": "Speaker_A",
+      "start_time": "33:21",
+      "end_time": "33:24",
+      "text": "Yeah, maybe we need to be an enter button, but that could just be the same as well.",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 354,
+      "speaker": "Speaker_D",
+      "start_time": "33:24",
+      "end_time": "33:37",
+      "text": "Maybe for the the one they're going to see all the time, we make it look good and um fit the kind of idea of what they want. And then for the more functional buttons, we don't worry too much about it and just have that as like a plus it's hidden away anyway, you're not going to see it at the start.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 355,
+      "speaker": "Speaker_A",
+      "start_time": "33:37",
+      "end_time": "33:37",
+      "text": "Yeah.",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 356,
+      "speaker": "Speaker_A",
+      "start_time": "33:37",
+      "end_time": "33:53",
+      "text": "And it's the sort of thing that I mean, you want to pick up the controller and just hit a button quickly to change a channel or volume. So if it's dead obvious, then that's fine. But if you're opening the panel and you're looking and you're tuning, then you're paying a bit more attention. So maybe sort of different color buttons isn't so important.",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 357,
+      "speaker": "Speaker_B",
+      "start_time": "33:53",
+      "end_time": "33:54",
+      "text": "All right. Okay.",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 358,
+      "speaker": "Speaker_A",
+      "start_time": "33:54",
+      "end_time": "33:55",
+      "text": "Yeah.",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 359,
+      "speaker": "Speaker_B",
+      "start_time": "33:56",
+      "end_time": "33:59",
+      "text": "So we just add that to profitability in effect.",
+      "emotion": "satisfied",
+      "confidence": 0.7
+    },
+    {
+      "id": 360,
+      "speaker": "Speaker_A",
+      "start_time": "33:59",
+      "end_time": "34:02",
+      "text": "Yeah, I mean, you just have to drop the cost.",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 361,
+      "speaker": "Speaker_B",
+      "start_time": "34:02",
+      "end_time": "34:04",
+      "text": "Right, so we're meant to finish up in five minutes.",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 362,
+      "speaker": "Speaker_A",
+      "start_time": "34:05",
+      "end_time": "34:06",
+      "text": "same sort of function. Yeah.",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 363,
+      "speaker": "Speaker_A",
+      "start_time": "34:08",
+      "end_time": "34:11",
+      "text": "criteria. It's all right. Just made a load of money.",
+      "emotion": "satisfied",
+      "confidence": 0.7
+    },
+    {
+      "id": 364,
+      "speaker": "Speaker_C",
+      "start_time": "34:22",
+      "end_time": "34:27",
+      "text": "Shouldn't we maybe lose a point on fashion, go to a three? Because we've lost the overall spongy feel.",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 365,
+      "speaker": "Speaker_C",
+      "start_time": "34:28",
+      "end_time": "34:30",
+      "text": "Because it doesn't seem right that it just hasn't changed at all.",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 366,
+      "speaker": "Speaker_B",
+      "start_time": "34:31",
+      "end_time": "34:31",
+      "text": "Well,",
+      "emotion": "satisfied",
+      "confidence": 0.8
+    },
+    {
+      "id": 367,
+      "speaker": "Speaker_A",
+      "start_time": "34:32",
+      "end_time": "34:40",
+      "text": "I think we said that because we got rid of the rubber, we put an extra an extra sort of fruit um shape on one of the buttons.",
+      "emotion": "satisfied",
+      "confidence": 0.8
+    },
+    {
+      "id": 368,
+      "speaker": "Speaker_C",
+      "start_time": "34:41",
+      "end_time": "34:44",
+      "text": "Did we decide what that was? Which button it was?",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 369,
+      "speaker": "Speaker_A",
+      "start_time": "34:44",
+      "end_time": "34:47",
+      "text": "I think well we could have lemon shaped ones for the volume ones or something.",
+      "emotion": "satisfied",
+      "confidence": 0.8
+    },
+    {
+      "id": 370,
+      "speaker": "Speaker_B",
+      "start_time": "34:47",
+      "end_time": "34:49",
+      "text": "s",
+      "emotion": "satisfied",
+      "confidence": 0.8
+    },
+    {
+      "id": 371,
+      "speaker": "Speaker_D",
+      "start_time": "34:50",
+      "end_time": "34:51",
+      "text": "I like the idea of that. That's good.",
+      "emotion": "enthusiastic",
+      "confidence": 0.8
+    },
+    {
+      "id": 372,
+      "speaker": "Speaker_A",
+      "start_time": "34:51",
+      "end_time": "34:52",
+      "text": "Yeah.",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 373,
+      "speaker": "Speaker_A",
+      "start_time": "34:54",
+      "end_time": "34:56",
+      "text": "Definitely lemon shaped.",
+      "emotion": "satisfied",
+      "confidence": 0.7
+    },
+    {
+      "id": 374,
+      "speaker": "Speaker_A",
+      "start_time": "35:05",
+      "end_time": "35:09",
+      "text": "Did did you have to have a rubber case though for rubber buttons or was it the other way around?",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 375,
+      "speaker": "Speaker_D",
+      "start_time": "35:10",
+      "end_time": "35:12",
+      "text": "You had to have rubber buttons if you had a rubber case.",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 376,
+      "speaker": "Speaker_A",
+      "start_time": "35:12",
+      "end_time": "35:15",
+      "text": "Right. So I think we're So we're okay this way around.",
+      "emotion": "satisfied",
+      "confidence": 0.7
+    },
+    {
+      "id": 377,
+      "speaker": "Speaker_D",
+      "start_time": "35:15",
+      "end_time": "35:15",
+      "text": "Yeah.",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 378,
+      "speaker": "Speaker_B",
+      "start_time": "35:18",
+      "end_time": "35:23",
+      "text": "So until the design team comes in and says, get off. But you are the design team.",
+      "emotion": "satisfied",
+      "confidence": 0.8
+    },
+    {
+      "id": 379,
+      "speaker": "Speaker_A",
+      "start_time": "35:24",
+      "end_time": "35:25",
+      "text": "we say it's fine, so it's all good.",
+      "emotion": "satisfied",
+      "confidence": 0.7
+    },
+    {
+      "id": 380,
+      "speaker": "Speaker_A",
+      "start_time": "35:28",
+      "end_time": "35:29",
+      "text": "Save two euros on that.",
+      "emotion": "satisfied",
+      "confidence": 0.7
+    },
+    {
+      "id": 381,
+      "speaker": "Speaker_B",
+      "start_time": "35:52",
+      "end_time": "35:55",
+      "text": "So, what bit are we on to?",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 382,
+      "speaker": "Speaker_C",
+      "start_time": "35:59",
+      "end_time": "36:06",
+      "text": "I'm kind of just check if that's a cherry or an apple. Did we decide against the apple because of Apple Mac and did we make it a cherry officially?",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 383,
+      "speaker": "Speaker_A",
+      "start_time": "36:06",
+      "end_time": "36:07",
+      "text": "I I",
+      "emotion": "calm",
+      "confidence": 0.6
+    },
+    {
+      "id": 384,
+      "speaker": "Speaker_B",
+      "start_time": "36:08",
+      "end_time": "36:09",
+      "text": "Oh, right. Okay.",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 385,
+      "speaker": "Speaker_A",
+      "start_time": "36:10",
+      "end_time": "36:13",
+      "text": "Just in case we need that point two for lawsuits.",
+      "emotion": "satisfied",
+      "confidence": 0.8
+    },
+    {
+      "id": 386,
+      "speaker": "Speaker_B",
+      "start_time": "36:13",
+      "end_time": "36:14",
+      "text": "s",
+      "emotion": "satisfied",
+      "confidence": 0.8
+    },
+    {
+      "id": 387,
+      "speaker": "Speaker_B",
+      "start_time": "36:20",
+      "end_time": "36:22",
+      "text": "Oh, I've botched that, haven't I?",
+      "emotion": "discouraged",
+      "confidence": 0.6
+    },
+    {
+      "id": 388,
+      "speaker": "Speaker_B",
+      "start_time": "38:31",
+      "end_time": "38:38",
+      "text": "So we've done the the finance bit and the Excel project and the we've done the redesign. So we're now on to",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 389,
+      "speaker": "Speaker_B",
+      "start_time": "38:39",
+      "end_time": "38:48",
+      "text": "project process, satisfaction with, for example, room for creativity, leadership, teamwork, means, etc, whiteboard, digital pens, etc.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 390,
+      "speaker": "Speaker_B",
+      "start_time": "38:49",
+      "end_time": "38:58",
+      "text": "So we're actually now uh in a sense onto the evaluation of the course rather than the evaluation of the project as my understanding of it.",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 391,
+      "speaker": "Speaker_B",
+      "start_time": "38:59",
+      "end_time": "39:03",
+      "text": "So what did you and remember that nobody's just over the curtain.",
+      "emotion": "satisfied",
+      "confidence": 0.7
+    },
+    {
+      "id": 392,
+      "speaker": "Speaker_B",
+      "start_time": "39:06",
+      "end_time": "39:08",
+      "text": "So, um",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 393,
+      "speaker": "Speaker_A",
+      "start_time": "39:10",
+      "end_time": "39:11",
+      "text": "Finish our meeting now.",
+      "emotion": "satisfied",
+      "confidence": 0.7
+    },
+    {
+      "id": 394,
+      "speaker": "Speaker_A",
+      "start_time": "39:13",
+      "end_time": "39:15",
+      "text": "We'll just go through this quickly and then",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 395,
+      "speaker": "Speaker_B",
+      "start_time": "39:15",
+      "end_time": "39:15",
+      "text": "Yeah.",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 396,
+      "speaker": "Speaker_B",
+      "start_time": "39:15",
+      "end_time": "39:16",
+      "text": "So",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 397,
+      "speaker": "Speaker_B",
+      "start_time": "39:19",
+      "end_time": "39:24",
+      "text": "I suppose the easiest way of doing it is to put some notes down, which I will do.",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 398,
+      "speaker": "Speaker_A",
+      "start_time": "39:26",
+      "end_time": "39:26",
+      "text": "Okay.",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 399,
+      "speaker": "Speaker_B",
+      "start_time": "39:27",
+      "end_time": "39:31",
+      "text": "So, uh, I think I have to finish that page.",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 400,
+      "speaker": "Speaker_B",
+      "start_time": "39:32",
+      "end_time": "39:34",
+      "text": "Right. Okay. So",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 401,
+      "speaker": "Speaker_B",
+      "start_time": "39:42",
+      "end_time": "39:43",
+      "text": "project evaluation. So",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 402,
+      "speaker": "Speaker_B",
+      "start_time": "39:44",
+      "end_time": "39:46",
+      "text": "um",
+      "emotion": "calm",
+      "confidence": 0.6
+    },
+    {
+      "id": 403,
+      "speaker": "Speaker_B",
+      "start_time": "39:49",
+      "end_time": "39:50",
+      "text": "creativity.",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 404,
+      "speaker": "Speaker_B",
+      "start_time": "39:51",
+      "end_time": "39:55",
+      "text": "Did you feel you got a chance to express yourselves well enough?",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 405,
+      "speaker": "Speaker_A",
+      "start_time": "39:55",
+      "end_time": "39:56",
+      "text": "Um, yeah.",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 406,
+      "speaker": "Speaker_A",
+      "start_time": "39:57",
+      "end_time": "40:03",
+      "text": "I thought some of the divisions though between sort of the individual meetings were a bit arbitrary.",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 407,
+      "speaker": "Speaker_B",
+      "start_time": "40:04",
+      "end_time": "40:06",
+      "text": "Individual meetings? How do you mean?",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 408,
+      "speaker": "Speaker_A",
+      "start_time": "40:06",
+      "end_time": "40:17",
+      "text": "Yeah. Well, we were finding out various things in in your on your own in between the meetings and they it didn't the one meeting didn't always follow on from the other one, you know, sort of",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 409,
+      "speaker": "Speaker_A",
+      "start_time": "40:18",
+      "end_time": "40:37",
+      "text": "we had things thrown in at the second meeting where you know, you'd looked at the remote controls and seen the coviness, but in the first one you'd also looked at some remote controls and looked at the buttons. And I don't understand why it would be in separate meetings that you'd do that, you know, you'd sort of you'd probably presented at one or something like that.",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 410,
+      "speaker": "Speaker_B",
+      "start_time": "40:39",
+      "end_time": "40:54",
+      "text": "Well, the only thing you find is in a manufacturing process, you would normally, you go to a meeting, you decide right, you do this, you do that, you do that. Then you go away, you find out information, you then come back, you then discuss it, you then go and change things around and then go back. So",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 411,
+      "speaker": "Speaker_D",
+      "start_time": "40:55",
+      "end_time": "40:58",
+      "text": "So in the real world you would be going out and finding more information each time.",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 412,
+      "speaker": "Speaker_B",
+      "start_time": "40:58",
+      "end_time": "41:02",
+      "text": "Whereas this time you're really getting it from a database source, so it's not Yeah.",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 413,
+      "speaker": "Speaker_B",
+      "start_time": "41:02",
+      "end_time": "41:05",
+      "text": "Anyway, so what do you want us to put down?",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 414,
+      "speaker": "Speaker_B",
+      "start_time": "41:06",
+      "end_time": "41:28",
+      "text": "I've put seemed okay, creativity seemed okay. Um, flow of information on on any given subject, um, sometimes disjointed.",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 415,
+      "speaker": "Speaker_A",
+      "start_time": "41:28",
+      "end_time": "41:28",
+      "text": "Yeah.",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 416,
+      "speaker": "Speaker_C",
+      "start_time": "41:30",
+      "end_time": "41:42",
+      "text": "I think it maybe could have been a slightly more creative project. I mean, a remote control isn't the most um Yeah, the thing is kind of fancy project. I imagine design.",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 417,
+      "speaker": "Speaker_C",
+      "start_time": "41:43",
+      "end_time": "41:44",
+      "text": "I can't think of a better example that",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 418,
+      "speaker": "Speaker_B",
+      "start_time": "41:45",
+      "end_time": "42:02",
+      "text": "have could have used a different example to increase creativity.",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 419,
+      "speaker": "Speaker_D",
+      "start_time": "41:57",
+      "end_time": "42:01",
+      "text": "Does it get the purpose though with something everyone knows about and then",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 420,
+      "speaker": "Speaker_D",
+      "start_time": "42:02",
+      "end_time": "42:04",
+      "text": "something we can at least look at and how we can",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 421,
+      "speaker": "Speaker_B",
+      "start_time": "42:04",
+      "end_time": "42:07",
+      "text": "You have to do it within a set time frame is the other thing. So",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 422,
+      "speaker": "Speaker_A",
+      "start_time": "42:07",
+      "end_time": "42:13",
+      "text": "Yeah. But I also think like it was a bit restrictive just to say that you have to design a television remote control.",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 423,
+      "speaker": "Speaker_A",
+      "start_time": "42:14",
+      "end_time": "42:24",
+      "text": "in a way. I mean it depends what sort of business you're in, I guess. I mean, this one seems to be one from the website, it looks as if it's quite innovative, but we're coming out with some bucket shop product almost, you know.",
+      "emotion": "discouraged",
+      "confidence": 0.7
+    },
+    {
+      "id": 424,
+      "speaker": "Speaker_D",
+      "start_time": "42:25",
+      "end_time": "42:29",
+      "text": "But it's one of those things like a company's going to have like a range of products and",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 425,
+      "speaker": "Speaker_D",
+      "start_time": "42:30",
+      "end_time": "42:35",
+      "text": "I imagine that's how it works by guess that something got sent out and you'd have like a brief to kind of",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 426,
+      "speaker": "Speaker_B",
+      "start_time": "42:35",
+      "end_time": "42:50",
+      "text": "But the other thing is that I mean they're I'm guessing that they're trying to use this um software to to demonstrate how you could uh do a project.",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 427,
+      "speaker": "Speaker_B",
+      "start_time": "42:50",
+      "end_time": "43:04",
+      "text": "I mean my wife at the moment for instance is uh acting as a computer um for um normally you got a problem so you go to your tutor and find out information to see how to get it fixed.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 428,
+      "speaker": "Speaker_B",
+      "start_time": "43:05",
+      "end_time": "43:39",
+      "text": "So what she's doing is she's having to spend a day at the computer terminal at one end so that any student that comes along can uh ask whatever question and then you are the idea is that the whichever uh person's at the other end can point them in the right direction, show them where to either give them directly, give them help or secondly, point them in the right direction, either at the library or uh or or come back or go and see Joe blogs or whatever.",
+      "emotion": "calm",
+      "confidence": 0.9
+    },
+    {
+      "id": 429,
+      "speaker": "Speaker_B",
+      "start_time": "43:39",
+      "end_time": "43:53",
+      "text": "So uh and that was a project I suspect similar to this because they they were actually trying to debug the uh computer software to enable them to enable it to work.",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 430,
+      "speaker": "Speaker_B",
+      "start_time": "43:53",
+      "end_time": "43:58",
+      "text": "And of course you had machine crashing and various things going wrong.",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 431,
+      "speaker": "Speaker_A",
+      "start_time": "43:58",
+      "end_time": "44:01",
+      "text": "So she's still everything else.",
+      "emotion": "calm",
+      "confidence": 0.6
+    },
+    {
+      "id": 432,
+      "speaker": "Speaker_B",
+      "start_time": "44:01",
+      "end_time": "44:03",
+      "text": "All right. So we've got to",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 433,
+      "speaker": "Speaker_B",
+      "start_time": "44:05",
+      "end_time": "44:11",
+      "text": "But if you I mean if you look at their products on their website here, real reaction, I mean it's all pretty high-tech and cutting edge.",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 434,
+      "speaker": "Speaker_B",
+      "start_time": "44:12",
+      "end_time": "44:14",
+      "text": "New ideas found. Did we find any? No.",
+      "emotion": "discouraged",
+      "confidence": 0.6
+    },
+    {
+      "id": 435,
+      "speaker": "Speaker_D",
+      "start_time": "44:15",
+      "end_time": "44:19",
+      "text": "It's quite good with this um the whiteboard having that and the digital pens. I think that's made a little bit easier.",
+      "emotion": "satisfied",
+      "confidence": 0.7
+    },
+    {
+      "id": 436,
+      "speaker": "Speaker_B",
+      "start_time": "44:20",
+      "end_time": "44:22",
+      "text": "Leadership, teamwork.",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 437,
+      "speaker": "Speaker_A",
+      "start_time": "44:22",
+      "end_time": "44:29",
+      "text": "So we did find a new idea. I mean sort of a kinetic remote control. I've never seen one of them before. No batteries, I think, so.",
+      "emotion": "satisfied",
+      "confidence": 0.7
+    },
+    {
+      "id": 438,
+      "speaker": "Speaker_D",
+      "start_time": "44:30",
+      "end_time": "44:32",
+      "text": "voice recognition, especially the one we could",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 439,
+      "speaker": "Speaker_A",
+      "start_time": "44:32",
+      "end_time": "44:33",
+      "text": "Yeah.",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 440,
+      "speaker": "Speaker_B",
+      "start_time": "44:33",
+      "end_time": "44:37",
+      "text": "You've got voice recognition computers. That's not remote controls.",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 441,
+      "speaker": "Speaker_A",
+      "start_time": "44:37",
+      "end_time": "44:39",
+      "text": "Yeah. But it's a different application of it.",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 442,
+      "speaker": "Speaker_B",
+      "start_time": "44:39",
+      "end_time": "44:40",
+      "text": "Mhm.",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 443,
+      "speaker": "Speaker_D",
+      "start_time": "44:42",
+      "end_time": "44:45",
+      "text": "Yeah, it's like the same products but just put together in a different way.",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 444,
+      "speaker": "Speaker_B",
+      "start_time": "44:45",
+      "end_time": "44:47",
+      "text": "So, how do you reckon teamwork went?",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 445,
+      "speaker": "Speaker_A",
+      "start_time": "44:48",
+      "end_time": "44:50",
+      "text": "I think it went okay. Yeah.",
+      "emotion": "satisfied",
+      "confidence": 0.7
+    },
+    {
+      "id": 446,
+      "speaker": "Speaker_D",
+      "start_time": "44:51",
+      "end_time": "44:53",
+      "text": "Yeah, I guess we all had separate ideas and then discussed.",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 447,
+      "speaker": "Speaker_A",
+      "start_time": "44:53",
+      "end_time": "44:54",
+      "text": "Yeah.",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 448,
+      "speaker": "Speaker_C",
+      "start_time": "44:54",
+      "end_time": "44:55",
+      "text": "Yeah.",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 449,
+      "speaker": "Speaker_B",
+      "start_time": "44:57",
+      "end_time": "45:04",
+      "text": "to uh go reasonably well.",
+      "emotion": "satisfied",
+      "confidence": 0.7
+    },
+    {
+      "id": 450,
+      "speaker": "Speaker_B",
+      "start_time": "45:05",
+      "end_time": "45:05",
+      "text": "Okay.",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 451,
+      "speaker": "Speaker_A",
+      "start_time": "45:07",
+      "end_time": "45:13",
+      "text": "I don't think sort of the budget um allowed us to do anything",
+      "emotion": "discouraged",
+      "confidence": 0.7
+    },
+    {
+      "id": 452,
+      "speaker": "Speaker_B",
+      "start_time": "45:13",
+      "end_time": "45:13",
+      "text": "Bit arbitrary.",
+      "emotion": "calm",
+      "confidence": 0.6
+    },
+    {
+      "id": 453,
+      "speaker": "Speaker_A",
+      "start_time": "45:14",
+      "end_time": "45:18",
+      "text": "Well, I mean, I don't think it I just don't think it fitted in with the rest of their products. I mean",
+      "emotion": "discouraged",
+      "confidence": 0.7
+    },
+    {
+      "id": 454,
+      "speaker": "Speaker_A",
+      "start_time": "45:19",
+      "end_time": "45:20",
+      "text": "they've got all these sort of, you know,",
+      "emotion": "discouraged",
+      "confidence": 0.6
+    },
+    {
+      "id": 455,
+      "speaker": "Speaker_B",
+      "start_time": "45:20",
+      "end_time": "45:20",
+      "text": "Mhm.",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 456,
+      "speaker": "Speaker_A",
+      "start_time": "45:21",
+      "end_time": "45:33",
+      "text": "high definition DVD and portable 7-inch um lightweight computer screens and I'm thinking, you know, one cheap remote control doesn't really fit in.",
+      "emotion": "discouraged",
+      "confidence": 0.8
+    },
+    {
+      "id": 457,
+      "speaker": "Speaker_B",
+      "start_time": "45:35",
+      "end_time": "45:42",
+      "text": "So one meant to comment on leadership and means EG whiteboard, digital pens, etc.",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 458,
+      "speaker": "Speaker_C",
+      "start_time": "45:44",
+      "end_time": "46:03",
+      "text": "Well leadership, we can't really all fairly comment on leadership because you were the project manager, you were the So our experience of leadership wasn't really as much as yours.",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 459,
+      "speaker": "Speaker_A",
+      "start_time": "46:03",
+      "end_time": "46:04",
+      "text": "Yeah.",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 460,
+      "speaker": "Speaker_B",
+      "start_time": "46:05",
+      "end_time": "46:09",
+      "text": "No, and much marketing, but",
+      "emotion": "satisfied",
+      "confidence": 0.7
+    },
+    {
+      "id": 461,
+      "speaker": "Speaker_B",
+      "start_time": "46:11",
+      "end_time": "46:16",
+      "text": "And I certainly didn't get this uh computer to work as well as I would have liked.",
+      "emotion": "discouraged",
+      "confidence": 0.7
+    },
+    {
+      "id": 462,
+      "speaker": "Speaker_A",
+      "start_time": "46:17",
+      "end_time": "46:18",
+      "text": "However,",
+      "emotion": "calm",
+      "confidence": 0.6
+    },
+    {
+      "id": 463,
+      "speaker": "Speaker_B",
+      "start_time": "46:18",
+      "end_time": "46:24",
+      "text": "Um right. Uh means so whiteboard um so really it's equipment.",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 464,
+      "speaker": "Speaker_A",
+      "start_time": "46:25",
+      "end_time": "46:25",
+      "text": "Yeah.",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 465,
+      "speaker": "Speaker_A",
+      "start_time": "46:26",
+      "end_time": "46:27",
+      "text": "It worked.",
+      "emotion": "satisfied",
+      "confidence": 0.6
+    },
+    {
+      "id": 466,
+      "speaker": "Speaker_A",
+      "start_time": "46:28",
+      "end_time": "46:32",
+      "text": "Yeah, very nice. Computers could be a bit difficult at times, but",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 467,
+      "speaker": "Speaker_C",
+      "start_time": "46:37",
+      "end_time": "46:40",
+      "text": "I mean, I I don't I'm not sure I see the value in these. I mean",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 468,
+      "speaker": "Speaker_C",
+      "start_time": "46:40",
+      "end_time": "46:47",
+      "text": "they record what you're writing and then what do you do with it? Where do you get the recording? Do you plug it into the computer or something?",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 469,
+      "speaker": "Speaker_A",
+      "start_time": "46:47",
+      "end_time": "46:49",
+      "text": "There's a little there's a little um",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 470,
+      "speaker": "Speaker_D",
+      "start_time": "46:49",
+      "end_time": "46:52",
+      "text": "It's not just for us, it's for the experiment as a whole, so.",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 471,
+      "speaker": "Speaker_A",
+      "start_time": "46:52",
+      "end_time": "46:56",
+      "text": "There's a there's a little chip I think you must plug it into something and it produces a",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 472,
+      "speaker": "Speaker_A",
+      "start_time": "46:56",
+      "end_time": "46:59",
+      "text": "And then you can watch a video of it kind of",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 473,
+      "speaker": "Speaker_A",
+      "start_time": "46:59",
+      "end_time": "47:03",
+      "text": "I don't know whether it just produces a big image of sort of everything you've written or something.",
+      "emotion": "calm",
+      "confidence": 0.6
+    },
+    {
+      "id": 474,
+      "speaker": "Speaker_B",
+      "start_time": "47:03",
+      "end_time": "47:06",
+      "text": "Right. New ideas found, so one or two.",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 475,
+      "speaker": "Speaker_A",
+      "start_time": "47:07",
+      "end_time": "47:07",
+      "text": "Yeah.",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 476,
+      "speaker": "Speaker_A",
+      "start_time": "47:08",
+      "end_time": "47:11",
+      "text": "Kinetic powered remote control.",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 477,
+      "speaker": "Speaker_A",
+      "start_time": "47:11",
+      "end_time": "47:13",
+      "text": "Um what was the other one?",
+      "emotion": "calm",
+      "confidence": 0.6
+    },
+    {
+      "id": 478,
+      "speaker": "Speaker_C",
+      "start_time": "47:14",
+      "end_time": "47:17",
+      "text": "Voice recognition thing.",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 479,
+      "speaker": "Speaker_A",
+      "start_time": "47:17",
+      "end_time": "47:18",
+      "text": "Yeah.",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 480,
+      "speaker": "Speaker_B",
+      "start_time": "47:20",
+      "end_time": "47:21",
+      "text": "Kinetic powered",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 481,
+      "speaker": "Speaker_B",
+      "start_time": "47:25",
+      "end_time": "47:36",
+      "text": "and uh voice uh voice activated um voice recognition, yeah.",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 482,
+      "speaker": "Speaker_A",
+      "start_time": "47:36",
+      "end_time": "47:37",
+      "text": "recognition.",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 483,
+      "speaker": "Speaker_A",
+      "start_time": "47:43",
+      "end_time": "47:44",
+      "text": "Almost.",
+      "emotion": "satisfied",
+      "confidence": 0.6
+    },
+    {
+      "id": 484,
+      "speaker": "Speaker_C",
+      "start_time": "47:44",
+      "end_time": "47:47",
+      "text": "Pretty much. putting these putting these questions.",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 485,
+      "speaker": "Speaker_B",
+      "start_time": "47:47",
+      "end_time": "47:48",
+      "text": "Right, so",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 486,
+      "speaker": "Speaker_B",
+      "start_time": "47:51",
+      "end_time": "48:01",
+      "text": "Uh, are the costs within budget? Yes. Is the project evaluated? Yes. Uh, don't forget to complete final question and meaning summary then celebration.",
+      "emotion": "satisfied",
+      "confidence": 0.8
+    },
+    {
+      "id": 487,
+      "speaker": "Speaker_A",
+      "start_time": "48:02",
+      "end_time": "48:03",
+      "text": "Let's get to",
+      "emotion": "enthusiastic",
+      "confidence": 0.7
+    },
+    {
+      "id": 488,
+      "speaker": "Speaker_A",
+      "start_time": "48:04",
+      "end_time": "48:09",
+      "text": "I think we've got two questionnaires and a report on the last meeting.",
+      "emotion": "calm",
+      "confidence": 0.8
+    },
+    {
+      "id": 489,
+      "speaker": "Speaker_B",
+      "start_time": "48:13",
+      "end_time": "48:14",
+      "text": "Uh, so",
+      "emotion": "calm",
+      "confidence": 0.6
+    },
+    {
+      "id": 490,
+      "speaker": "Speaker_B",
+      "start_time": "48:14",
+      "end_time": "48:15",
+      "text": "we don't really",
+      "emotion": "calm",
+      "confidence": 0.6
+    },
+    {
+      "id": 491,
+      "speaker": "Speaker_B",
+      "start_time": "48:16",
+      "end_time": "48:17",
+      "text": "So really",
+      "emotion": "calm",
+      "confidence": 0.6
+    },
+    {
+      "id": 492,
+      "speaker": "Speaker_B",
+      "start_time": "48:19",
+      "end_time": "48:25",
+      "text": "I tried to save this the last time at 12.3 and it didn't seem to have saved anywhere.",
+      "emotion": "discouraged",
+      "confidence": 0.7
+    },
+    {
+      "id": 493,
+      "speaker": "Speaker_B",
+      "start_time": "48:25",
+      "end_time": "48:28",
+      "text": "Mind you the the figure last time was was different but",
+      "emotion": "calm",
+      "confidence": 0.7
+    },
+    {
+      "id": 494,
+      "speaker": "Speaker_B",
+      "start_time": "48:30",
+      "end_time": "48:31",
+      "text": "should be",
+      "emotion": "calm",
+      "confidence": 0.6
+    }
+  ]
+}
